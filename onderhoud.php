@@ -19,8 +19,6 @@ if ($valid_cookie->{"status"} !== "success") {
 
 */
 
-DEFUNCT CODE BOVEN DAT IK NIET WIL VERWIJDEREN OMDAT HET NOG GEBRUIKT KAN WORDEN BIJ PROBLEMEN MET INLOGGEN
-
 ?>
 
 <html>
