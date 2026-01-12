@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2024-11-25 08:00:06
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, mail, 
+--customer: AB Finance & More
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-11-25 20:00:07
+success: er zijn geen reminders voor vandaag

@@ -1,0 +1,24 @@
+---------------------------------------------------------------------
+Date: 2024-12-28 08:00:03
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, 
+--customer: Tanni's Fashion
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, mail, 
+--customer: Stichting Nibbik Uit
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-12-28 20:00:11
+---------------------------------------------------------------------
+Date: 2024-12-28 20:00:17
+---------------------------------------------------------------------
+Date: 2024-12-28 20:00:29
+success: er zijn geen reminders voor vandaag
+success: er zijn geen reminders voor vandaag
+success: er zijn geen reminders voor vandaag

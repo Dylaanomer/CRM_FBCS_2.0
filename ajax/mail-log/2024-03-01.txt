@@ -1,0 +1,75 @@
+---------------------------------------------------------------------
+Date: 2024-03-01 08:00:06
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: internet, 
+--customer: Meubelfabriek FMO
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: internet, 
+--customer: Schildersbedrijf Pronkwerk
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: internet, 
+--customer: Pronk Dakkapellen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: internet, 
+--customer: Technisch Installatiebedrijf Komen B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: internet, 
+--customer: Biocare
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: verhuur, 
+--customer: Tanni's Fashion
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: internet, 
+--customer: Richard Schilder Bouw
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: internet, 
+--customer: Koopman Auto B.V.
+---------------------------------------------------------------------
+Date: 2024-03-01 08:00:14
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: internet, 
+--customer: Koopman Auto B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: voip, 
+--customer: Agrovisie B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: voip, 
+--customer: Agrovisie B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-03-01 20:00:02
+success: er zijn geen reminders voor vandaag

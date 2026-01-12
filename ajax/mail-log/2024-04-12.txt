@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2024-04-12 07:00:03
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: verhuur, 
+--customer: T.B. Doodeman
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-04-12 19:00:03
+success: er zijn geen reminders voor vandaag

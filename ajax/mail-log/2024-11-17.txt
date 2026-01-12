@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2024-11-17 08:00:06
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: onderhoud, 
+--customer: Dhr. Wedekind
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-11-17 20:00:05
+success: er zijn geen reminders voor vandaag

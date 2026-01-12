@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2024-06-08 07:00:07
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, mail, 
+--customer: Kufaci
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-06-08 19:00:05
+success: er zijn geen reminders voor vandaag

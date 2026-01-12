@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2025-04-10 07:00:05
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, mail, 
+--customer: Sijders Stukadoors en Afbouwbedrijf
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-04-10 19:00:08
+success: er zijn geen reminders voor vandaag

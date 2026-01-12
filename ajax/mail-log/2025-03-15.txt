@@ -1,0 +1,30 @@
+---------------------------------------------------------------------
+Date: 2025-03-15 08:00:09
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: Tandartspraktijk Bartels
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, 
+--customer: Fluwel
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, domainname, 
+--customer: Life Line Solutions
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, hosting, 
+--customer: Tim Zilver Tuinen
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-03-15 20:00:03
+success: er zijn geen reminders voor vandaag

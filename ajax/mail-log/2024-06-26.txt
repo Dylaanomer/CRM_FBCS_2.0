@@ -1,0 +1,69 @@
+---------------------------------------------------------------------
+Date: 2024-06-26 07:00:00
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, 
+--customer: Dual Logistics B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: voip, 
+--customer: Meubelfabriek FMO
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: internet, voip, 
+--customer: Danenberg Shop
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, 
+--customer: Aannemingsbedrijf N.P. Bakker
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudbackup, mail, 
+--customer: Metalas Zaandam B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, domainname, hosting, 
+--customer: Bouwbedrijf Kobus Snoek
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: Steel Creations B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, mail, cloudcare, 
+--customer: Uitvaartverzorging De Haan
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, mail, 
+--customer: Slimmer Wonen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: hosting, mail, 
+--customer: Het Wagenwiel
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: voip, 
+--customer: Henselmans Kozijnen
+success:
+    send reminder successful
+    updated history and next reminder date

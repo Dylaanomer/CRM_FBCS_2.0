@@ -1,0 +1,21 @@
+---------------------------------------------------------------------
+Date: 2024-03-24 08:00:10
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, 
+--customer: Biocare
+---------------------------------------------------------------------
+Date: 2024-03-24 08:00:18
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, 
+--customer: Biocare
+success:
+    send reminder successful
+    updated history and next reminder date
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-03-24 20:00:02
+success: er zijn geen reminders voor vandaag

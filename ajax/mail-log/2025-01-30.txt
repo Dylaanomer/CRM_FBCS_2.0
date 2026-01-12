@@ -1,0 +1,42 @@
+---------------------------------------------------------------------
+Date: 2025-01-30 08:00:05
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: Meubelfabriek FMO
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, 
+--customer: Dexter Interieur
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, 
+--customer: Bouwbedrijf Immink
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, 
+--customer: Roelofsen Bouwbedrijf
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, mail, 
+--customer: Zaandam Citybikes
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, mail, hosting, domainname, domainname, 
+--customer: Extrahandje
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-01-30 20:00:02
+success: er zijn geen reminders voor vandaag

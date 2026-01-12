@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2024-11-24 08:00:06
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, mail, cloudcare, 
+--customer: Van Diepen Bloembollen
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-11-24 20:00:06
+success: er zijn geen reminders voor vandaag

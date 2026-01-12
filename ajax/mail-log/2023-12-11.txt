@@ -1,0 +1,9 @@
+---------------------------------------------------------------------
+Date: 2023-12-11 08:00:02
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: onderhoud, 
+--customer: Dhr. Snijders
+success:
+    send reminder successful
+    updated history and next reminder date

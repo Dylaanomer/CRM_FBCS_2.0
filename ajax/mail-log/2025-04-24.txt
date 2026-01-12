@@ -1,0 +1,30 @@
+---------------------------------------------------------------------
+Date: 2025-04-24 07:00:07
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: onderhoud, 
+--customer: De Boer Vleesverwerking
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, 
+--customer: Els Nanne
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, hosting, 
+--customer: Snoek Landmeten
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, 
+--customer: Klaver Innovations
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-04-24 19:00:01
+success: er zijn geen reminders voor vandaag

@@ -1,0 +1,54 @@
+---------------------------------------------------------------------
+Date: 2024-08-01 07:00:09
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: internet, 
+--customer: Meubelfabriek FMO
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: internet, 
+--customer: Schildersbedrijf Pronkwerk
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: internet, 
+--customer: Pronk Dakkapellen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: internet, 
+--customer: Technisch Installatiebedrijf Komen B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: internet, 
+--customer: Biocare
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: internet, 
+--customer: Richard Schilder Bouw
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: internet, 
+--customer: Koopman Auto B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: voip, 
+--customer: Agrovisie B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-08-01 19:00:06
+success: er zijn geen reminders voor vandaag

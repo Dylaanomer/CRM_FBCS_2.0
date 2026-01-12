@@ -1,0 +1,33 @@
+---------------------------------------------------------------------
+Date: 2024-01-19 08:00:06
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: onderhoud, 
+--customer: Fam. Karsten
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, domainname, 
+--customer: Danenberg Shop
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, 
+--customer: Transportbedrijf Jac J. Ligthart
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, 
+--customer: JimpyPlay
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: C Gallery Occasions
+success:
+    send reminder successful
+    updated history and next reminder date

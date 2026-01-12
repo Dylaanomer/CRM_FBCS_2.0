@@ -1,0 +1,24 @@
+---------------------------------------------------------------------
+Date: 2024-09-14 07:00:04
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, mail, hosting, 
+--customer: Neefjes Elektrotechniek
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: verhuur, 
+--customer: Marco Groen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, 
+--customer: Adviesbureau 1612
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-09-14 19:00:08
+success: er zijn geen reminders voor vandaag

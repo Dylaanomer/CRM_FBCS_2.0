@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2025-12-10 08:00:09
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: onderhoud, 
+--customer: Fam. Veenis
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-12-10 20:00:01
+success: er zijn geen reminders voor vandaag

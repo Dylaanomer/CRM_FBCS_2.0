@@ -1,0 +1,9 @@
+---------------------------------------------------------------------
+Date: 2024-01-08 08:00:07
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, domainname, 
+--customer: Maat Aannemersbedrijf
+success:
+    send reminder successful
+    updated history and next reminder date

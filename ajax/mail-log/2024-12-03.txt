@@ -1,0 +1,18 @@
+---------------------------------------------------------------------
+Date: 2024-12-03 08:00:09
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: onderhoud, hosting, mail, 
+--customer: Paul Kriek (Mixedmediaandmore)
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, 
+--customer: TheNewJob
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-12-03 20:00:04
+success: er zijn geen reminders voor vandaag

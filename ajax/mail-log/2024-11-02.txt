@@ -1,0 +1,15 @@
+---------------------------------------------------------------------
+Date: 2024-11-02 08:00:03
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, domainname, mail, 
+--customer: Jean Berkhout Tuinontwerpen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, mail, 
+--customer: Johan Wester Afbouw
+success:
+    send reminder successful
+    updated history and next reminder date

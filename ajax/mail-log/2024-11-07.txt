@@ -1,0 +1,36 @@
+---------------------------------------------------------------------
+Date: 2024-11-07 08:00:04
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: De Tuinwijzer
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, mail, 
+--customer: Bloem en Jet
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, 
+--customer: Dexter Interieur
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, 
+--customer: Koopman Immink
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: onderhoud, 
+--customer: Mevr. Huig
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-11-07 20:00:07
+success: er zijn geen reminders voor vandaag

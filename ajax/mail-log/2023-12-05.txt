@@ -1,0 +1,33 @@
+---------------------------------------------------------------------
+Date: 2023-12-05 08:00:02
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: onderhoud, 
+--customer: Dhr. Cobelens
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, 
+--customer: Schildersbedrijf Pronkwerk
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: Bloemsierkunst De Keizerskroon
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: onderhoud, 
+--customer: JMPR
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: Life Line Solutions
+success:
+    send reminder successful
+    updated history and next reminder date

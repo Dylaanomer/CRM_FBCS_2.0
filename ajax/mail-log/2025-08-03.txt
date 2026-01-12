@@ -1,0 +1,24 @@
+---------------------------------------------------------------------
+Date: 2025-08-03 07:00:03
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, onderhoud, hosting, 
+--customer: Paul Kriek (Mixedmediaandmore)
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: verhuur, 
+--customer: Jean Berkhout Tuinontwerpen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, 
+--customer: TheNewJob
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-08-03 19:00:09
+success: er zijn geen reminders voor vandaag

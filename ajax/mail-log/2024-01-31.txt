@@ -1,0 +1,9 @@
+---------------------------------------------------------------------
+Date: 2024-01-31 08:00:01
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: Pronk Dakkapellen
+success:
+    send reminder successful
+    updated history and next reminder date

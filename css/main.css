@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+2|Blinker&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  color: #ddd;
+  background-color: #232323;
+}
+
+.container {
+  font-family: 'Baloo 2', cursive;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.selected {
+  background-color: #345;
+  border: 2px solid #008CBA;
+  border-top: none;
+}
+
+header div {
+  text-align: center;
+  font-family: 'Blinker', sans-serif;
+  padding: 10px 0;
+  transition-duration: .2s;
+  border-top: 3px solid #008CBA;
+  border-radius: 0 0 12px 12px;
+  width: calc(25% - 1px);
+  font-size: 120%;
+}
+
+header div:hover {
+  background-color: #345;
+  cursor: pointer;
+}
+
+header {
+  display: flex;
+  background-color: #334;
+  align-items: stretch;
+  flex-wrap: wrap;
+}
+
+.error, #delete {
+  background-color: #6b0909;
+}
+
+button {
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 0;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: #232323; 
+  border: 2px solid #008CBA;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+input, select, textarea {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border-radius: 4px;
+  box-sizing: border-box;
+  border: 2px solid #008CBA;
+  background-color: #232323;
+  color: white;
+}
+
+textarea {
+  resize: vertical;
+}
+
+/* CALENDAR FIX */
+
+input[type="date"] {
+  position: relative;
+}
+
+/* create a new arrow, because we are going to mess up the native one
+see "List of symbols" below if you want another, you could also try to add a font-awesome icon.. */
+input[type="date"]:after {
+  content: "\25BC"; 
+  color: #555;
+  padding: 0 5px;
+}
+
+/* change color of symbol on hover */
+input[type="date"]:hover:after {
+  color: #c7c7c7;
+}
+
+/* make the native arrow invisible and stretch it over the whole field so you can click anywhere in the input field to trigger the native datepicker*/
+input[type="date"]::-webkit-calendar-picker-indicator {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: auto;
+  height: auto;
+  color: transparent;
+  background: transparent;
+}
+
+/* adjust increase/decrease button */
+input[type="date"]::-webkit-inner-spin-button {
+  z-index: 1;
+}
+
+/* adjust clear button */
+input[type="date"]::-webkit-clear-button {
+   z-index: 1;
+}
+
+.userstate {
+  font-size: 90%;
+}
+
+.userstate button {
+  padding: 8px;
+  float: left;
+  margin-left: 5%;
+}

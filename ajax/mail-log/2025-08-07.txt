@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2025-08-07 07:00:08
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, 
+--customer: TLA Kees van Muiswinkel
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-08-07 19:00:07
+success: er zijn geen reminders voor vandaag

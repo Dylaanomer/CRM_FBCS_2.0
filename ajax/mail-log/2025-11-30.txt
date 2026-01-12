@@ -1,0 +1,18 @@
+---------------------------------------------------------------------
+Date: 2025-11-30 08:00:06
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: Mlima3.com
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, cloudbackup, 
+--customer: Flex Lease Company
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-11-30 20:00:06
+success: er zijn geen reminders voor vandaag

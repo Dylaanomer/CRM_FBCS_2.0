@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2025-08-28 07:00:03
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, 
+--customer: Ermanos
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-08-28 19:00:05
+success: er zijn geen reminders voor vandaag

@@ -1,0 +1,24 @@
+---------------------------------------------------------------------
+Date: 2025-07-04 07:00:08
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: onderhoud, cloudcare, 
+--customer: Westfries Goed Makelaars en Adviseurs
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, 
+--customer: Velkro Textiles
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: hosting, domainname, 
+--customer: Uitvaartvereniging Sint Jozef Spanbroek/Opmeer
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-07-04 19:00:06
+success: er zijn geen reminders voor vandaag

@@ -1,0 +1,27 @@
+---------------------------------------------------------------------
+Date: 2023-12-15 08:00:02
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, hosting, mail, 
+--customer: Slijterij Hoogland
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, 
+--customer: AVB Elektrotechniek
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: hosting, mail, domainname, 
+--customer: Compass Marine Services
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, 
+--customer: Marjon van Baar
+success:
+    send reminder successful
+    updated history and next reminder date

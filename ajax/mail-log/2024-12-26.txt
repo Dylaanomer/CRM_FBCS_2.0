@@ -1,0 +1,114 @@
+---------------------------------------------------------------------
+Date: 2024-12-26 08:00:02
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, mail, 
+--customer: Dual Logistics B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: voip, 
+--customer: Meubelfabriek FMO
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, domainname, hosting, 
+--customer: Mlima3.com
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudbackup, mail, mail, cloudcare, 
+--customer: Loonbedrijf J.S. van Diepen B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, mail, 
+--customer: Aannemingsbedrijf N.P. Bakker
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: voip, 
+--customer: Schildersbedrijf Pronkwerk
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudbackup, mail, 
+--customer: Metalas Zaandam B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: Steel Creations B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, mail, mail, mail, 
+--customer: Uitvaartverzorging De Haan
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, mail, 
+--customer: Slimmer Wonen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: C Gallery Exclusive
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, hosting, 
+--customer: Het Wagenwiel
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: internet, voip, 
+--customer: Danenberg Shop
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: voip, 
+--customer: Padstal
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, cloudcare, 
+--customer: Zondeco
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-12-26 20:00:04
+---------------------------------------------------------------------
+Date: 2024-12-26 20:00:14
+---------------------------------------------------------------------
+Date: 2024-12-26 20:00:25
+---------------------------------------------------------------------
+Date: 2024-12-26 20:00:38
+---------------------------------------------------------------------
+Date: 2024-12-26 20:00:49
+success: er zijn geen reminders voor vandaag
+success: er zijn geen reminders voor vandaag
+success: er zijn geen reminders voor vandaag
+success: er zijn geen reminders voor vandaag
+---------------------------------------------------------------------
+Date: 2024-12-26 20:01:37
+---------------------------------------------------------------------
+Date: 2024-12-26 20:01:37
+success: er zijn geen reminders voor vandaag
+success: er zijn geen reminders voor vandaag
+success: er zijn geen reminders voor vandaag

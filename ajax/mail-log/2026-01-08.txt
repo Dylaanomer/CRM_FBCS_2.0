@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2026-01-08 08:00:06
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, 
+--customer: Roelofsen Bouwbedrijf
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2026-01-08 20:00:06
+success: er zijn geen reminders voor vandaag

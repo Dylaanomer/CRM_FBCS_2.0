@@ -1,0 +1,30 @@
+---------------------------------------------------------------------
+Date: 2025-04-04 07:00:05
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, mail, onderhoud, 
+--customer: Fam. van den Berg
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: onderhoud, cloudcare, 
+--customer: Westfries Goed Makelaars en Adviseurs
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, cloudcare, cloudbackup, 
+--customer: Hartman Elektrotechniek
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, 
+--customer: Life Line Solutions
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-04-04 19:00:00
+success: er zijn geen reminders voor vandaag

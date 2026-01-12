@@ -1,0 +1,36 @@
+---------------------------------------------------------------------
+Date: 2025-03-30 07:00:03
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: Peter Mul Boomverzorging B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, 
+--customer: Impact Personeel
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, 
+--customer: De Selectie
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, cloudcare, 
+--customer: Tespa V.O.F.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, 
+--customer: J. Leeuw Beheer
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-03-30 19:00:07
+success: er zijn geen reminders voor vandaag

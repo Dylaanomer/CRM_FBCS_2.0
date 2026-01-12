@@ -1,0 +1,18 @@
+---------------------------------------------------------------------
+Date: 2024-11-10 08:00:03
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, domainname, 
+--customer: Blankendaal Tulips
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, 
+--customer: Life Line Solutions
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-11-10 20:00:02
+success: er zijn geen reminders voor vandaag

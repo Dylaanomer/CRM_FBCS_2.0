@@ -1,0 +1,276 @@
+---------------------------------------------------------------------
+Date: 2024-05-27 07:00:09
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: hosting, mail, 
+--customer: Commandeur Glasverwerking
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, 
+--customer: Dual Logistics B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: onderhoud, 
+--customer: E.S.R.I. Bloembollen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, mail, hosting, 
+--customer: Snoek Bouwbedrijf B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: onderhoud, 
+--customer: Mevr. Entius
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: voip, 
+--customer: Rijschool Rick V.O.F.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: DV Loon- en Grondwerk
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, 
+--customer: Woeds
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: voip, 
+--customer: Schildersbedrijf Pronkwerk
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, 
+--customer: Woonstudio Boon
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, verhuur, cloudbackup, 
+--customer: Sijs B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: hosting, mail, 
+--customer: Frank Stam Hoveniers
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: internet, 
+--customer: De Graaf Mobiliteit
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: verhuur, cloudbackup, 
+--customer: Koopman Immink
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: internet, mail, mail, 
+--customer: Technisch Installatiebedrijf Komen B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: Administratiekantoor Heerhugowaard
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, voip, mail, cloudcare, 
+--customer: Biocare
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, ssl, 
+--customer: Fantasy Orchids
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: Green Facility
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, onderhoud, cloudcare, mail, mail, 
+--customer: Ciscount Administraties
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: voip, 
+--customer: Richard Schilder Bouw
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, mail, cloudcare, 
+--customer: Compofloor
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: voip, mail, 
+--customer: Po-Zé Agenturen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: Uw Veranda Specialist
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, 
+--customer: S.A.M. Schagen B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, 
+--customer: Poeliersbedrijf Thaam Dam
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudbackup, mail, 
+--customer: Koopman Auto B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: onderhoud, cloudcare, 
+--customer: Westfries Goed Makelaars en Adviseurs
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, cloudcare, onderhoud, mail, 
+--customer: De Selectie
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: Velkro Textiles
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: Luxsol B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, 
+--customer: De HRman
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, mail, 
+--customer: Marco Groen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, cloudcare, mail, 
+--customer: Fluwel
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, internet, voip, 
+--customer: G. van Diepen Project 
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: voip, mail, 
+--customer: Gebr. Huisman B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: voip, internet, 
+--customer: Vakgarage Vlaar en Smal
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, mail, mail, 
+--customer: EcoConcepts BV
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, hosting, cloudbackup, cloudcare, mail, 
+--customer: Villa Kakelbont
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: voip, 
+--customer: C Gallery Exclusive
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, mail, mail, 
+--customer: PuurTechniek
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, hosting, cloudcare, mail, 
+--customer: JimpyPlay
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: Your Mind
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: verhuur, 
+--customer: Dhr. Blijleven
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, 
+--customer: ROSA Energy Services
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-05-27 19:00:09
+success: er zijn geen reminders voor vandaag

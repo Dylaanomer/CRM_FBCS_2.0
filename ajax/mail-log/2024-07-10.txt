@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2024-07-10 07:00:06
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, domainname, hosting, 
+--customer: Riko Stucadoorsbedrijf
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-07-10 19:00:08
+success: er zijn geen reminders voor vandaag

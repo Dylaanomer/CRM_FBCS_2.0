@@ -1,0 +1,18 @@
+---------------------------------------------------------------------
+Date: 2026-01-11 08:00:02
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, 
+--customer: Michelle Schouten
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: KozijnXpert
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2026-01-11 20:00:03
+success: er zijn geen reminders voor vandaag

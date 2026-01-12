@@ -1,0 +1,24 @@
+---------------------------------------------------------------------
+Date: 2025-08-24 07:00:08
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, 
+--customer: Flex Lease Company
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, mail, 
+--customer: Lisette Hoffs
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: Heer en Meester
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-08-24 19:00:04
+success: er zijn geen reminders voor vandaag

@@ -1,0 +1,15 @@
+---------------------------------------------------------------------
+Date: 2024-08-22 19:00:07
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, 
+--customer: Debby Vriend Interieurvormgeving
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, 
+--customer: JimpyPlay
+success:
+    send reminder successful
+    updated history and next reminder date

@@ -1,0 +1,18 @@
+---------------------------------------------------------------------
+Date: 2025-07-14 07:00:09
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: verhuur, 
+--customer: Marco Groen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: Bloemkwekerij Het Gemaal
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-07-14 19:00:05
+success: er zijn geen reminders voor vandaag

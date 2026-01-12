@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2025-08-17 07:00:09
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, domainname, hosting, 
+--customer: Bouwbedrijf Fa. Bruijns
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-08-17 19:00:03
+success: er zijn geen reminders voor vandaag

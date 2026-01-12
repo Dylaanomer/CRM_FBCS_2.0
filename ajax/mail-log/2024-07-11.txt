@@ -1,0 +1,9 @@
+---------------------------------------------------------------------
+Date: 2024-07-11 07:00:10
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, 
+--customer: Roon Bike Travel
+success:
+    send reminder successful
+    updated history and next reminder date

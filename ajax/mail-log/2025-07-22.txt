@@ -1,0 +1,18 @@
+---------------------------------------------------------------------
+Date: 2025-07-22 07:00:00
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: onderhoud, 
+--customer: Edwin van Diepen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: verhuur, 
+--customer: Bouwbedrijf Fa. Bruijns
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-07-22 19:00:07
+success: er zijn geen reminders voor vandaag

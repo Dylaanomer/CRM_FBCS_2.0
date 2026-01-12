@@ -1,0 +1,18 @@
+@media (max-width: 1600px) {
+  #dashboard, #create {
+    width: 100%;
+    height: auto;
+  }
+  #dashboard-content {
+    max-height: 50vh;
+  }
+  body {
+    font-size: 150%;
+  }
+  #dashboard header {
+    font-size: 130%;
+  }
+  #create header {
+    font-size: 100%;
+  }
+}

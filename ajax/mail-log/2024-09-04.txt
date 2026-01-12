@@ -1,0 +1,16 @@
+---------------------------------------------------------------------
+Date: 2024-09-04 07:00:05
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: hosting, mail, onderhoud, 
+--customer: Paul Kriek (Mixedmediaandmore)
+error: could not send mail
+SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+---------------------------------------------------------------------
+Date: 2024-09-04 19:00:09
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, onderhoud, hosting, 
+--customer: Paul Kriek (Mixedmediaandmore)
+error: could not send mail
+SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting

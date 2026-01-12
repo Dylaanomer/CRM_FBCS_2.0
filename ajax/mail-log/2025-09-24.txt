@@ -1,0 +1,9 @@
+---------------------------------------------------------------------
+Date: 2025-09-24 07:00:07
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, cloudcare, 
+--customer: Garage Hilee
+success:
+    send reminder successful
+    updated history and next reminder date

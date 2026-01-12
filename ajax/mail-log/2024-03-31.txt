@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2024-03-31 07:00:09
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, mail, hosting, 
+--customer: Dowizo Mode
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-03-31 19:00:01
+success: er zijn geen reminders voor vandaag

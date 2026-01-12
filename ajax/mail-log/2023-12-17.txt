@@ -1,0 +1,24 @@
+---------------------------------------------------------------------
+Date: 2023-12-17 08:00:03
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: Danenberg Kozijnen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, mail, 
+--customer: Transportbedrijf Jac J. Ligthart
+---------------------------------------------------------------------
+Date: 2023-12-17 08:00:12
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, mail, 
+--customer: Transportbedrijf Jac J. Ligthart
+success:
+    send reminder successful
+    updated history and next reminder date
+success:
+    send reminder successful
+    updated history and next reminder date

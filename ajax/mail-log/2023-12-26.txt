@@ -1,0 +1,102 @@
+---------------------------------------------------------------------
+Date: 2023-12-26 08:00:05
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: voip, 
+--customer: Meubelfabriek FMO
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: internet, voip, 
+--customer: Danenberg Kozijnen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, 
+--customer: Aannemingsbedrijf N.P. Bakker
+---------------------------------------------------------------------
+Date: 2023-12-26 08:00:12
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, mail, 
+--customer: Aannemingsbedrijf N.P. Bakker
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: De Graaf Mobiliteit
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: De Graaf Mobiliteit
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: Steel Creations B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: Steel Creations B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, cloudcare, mail, mail, 
+--customer: Uitvaartverzorging De Haan
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, mail, cloudcare, 
+--customer: Uitvaartverzorging De Haan
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, mail, 
+--customer: Slimmer Wonen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, mail, 
+--customer: Slimmer Wonen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: C Gallery Exclusive
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, hosting, 
+--customer: Het Wagenwiel
+success:
+    send reminder successful
+    updated history and next reminder date
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: C Gallery Exclusive
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: hosting, mail, 
+--customer: Het Wagenwiel
+success:
+    send reminder successful
+    updated history and next reminder date

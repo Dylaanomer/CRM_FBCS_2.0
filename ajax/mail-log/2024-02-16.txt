@@ -1,0 +1,9 @@
+---------------------------------------------------------------------
+Date: 2024-02-16 20:00:09
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: hosting, 
+--customer: Gezinshuis Met Elkaar
+success:
+    send reminder successful
+    updated history and next reminder date

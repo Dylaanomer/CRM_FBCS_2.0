@@ -1,0 +1,9 @@
+---------------------------------------------------------------------
+Date: 2024-01-04 08:00:09
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: onderhoud, hosting, mail, 
+--customer: Paul Kriek (Mixedmediaandmore)
+success:
+    send reminder successful
+    updated history and next reminder date

@@ -1,0 +1,9 @@
+---------------------------------------------------------------------
+Date: 2023-11-23 08:00:02
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, hosting, mail, 
+--customer: Cees Palet van Diensten
+success:
+    send reminder successful
+    updated history and next reminder date

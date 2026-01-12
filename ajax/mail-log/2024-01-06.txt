@@ -1,0 +1,21 @@
+---------------------------------------------------------------------
+Date: 2024-01-06 08:00:08
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, hosting, 
+--customer: Roon Bike Travel
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, mail, 
+--customer: Van Dam Automobielen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: onderhoud, hosting, mail, 
+--customer: Marcel Rinkel Bouwbegeleiding
+success:
+    send reminder successful
+    updated history and next reminder date

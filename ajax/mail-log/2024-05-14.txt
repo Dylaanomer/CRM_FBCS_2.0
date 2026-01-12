@@ -1,0 +1,9 @@
+---------------------------------------------------------------------
+Date: 2024-05-14 07:00:01
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: Velkro Textiles
+success:
+    send reminder successful
+    updated history and next reminder date

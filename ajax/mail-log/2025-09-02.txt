@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2025-09-02 07:00:09
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: Kings Art Flowers
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-09-02 19:00:04
+success: er zijn geen reminders voor vandaag

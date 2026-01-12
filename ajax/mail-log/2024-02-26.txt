@@ -1,0 +1,126 @@
+---------------------------------------------------------------------
+Date: 2024-02-26 08:00:14
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: voip, 
+--customer: Meubelfabriek FMO
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: voip, internet, 
+--customer: Danenberg Shop
+---------------------------------------------------------------------
+Date: 2024-02-26 08:00:23
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: voip, internet, 
+--customer: Danenberg Shop
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, 
+--customer: Aannemingsbedrijf N.P. Bakker
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: onderhoud, mail, 
+--customer: Neuroki
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: onderhoud, 
+--customer: Dhr. Hoekstra
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: Steel Creations B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, mail, cloudcare, 
+--customer: Uitvaartverzorging De Haan
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, 
+--customer: Aannemingsbedrijf N.P. Bakker
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, mail, 
+--customer: Slimmer Wonen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: onderhoud, mail, 
+--customer: Neuroki
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, hosting, 
+--customer: Het Wagenwiel
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: onderhoud, 
+--customer: Dhr. Hoekstra
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: voip, 
+--customer: Henselmans Kozijnen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: Steel Creations B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, mail, mail, mail, 
+--customer: Uitvaartverzorging De Haan
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, mail, 
+--customer: Slimmer Wonen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: hosting, mail, 
+--customer: Het Wagenwiel
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: voip, 
+--customer: Henselmans Kozijnen
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-02-26 08:00:34
+success: er zijn geen reminders voor vandaag
+---------------------------------------------------------------------
+Date: 2024-02-26 20:00:06
+success: er zijn geen reminders voor vandaag

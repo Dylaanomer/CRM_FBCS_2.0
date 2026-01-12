@@ -1,0 +1,24 @@
+---------------------------------------------------------------------
+Date: 2024-09-23 07:00:06
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, 
+--customer: Compleet B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: Gebr. Huisman B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, mail, cloudcare, 
+--customer: Kok Belastingadviseurs B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-09-23 19:00:04
+success: er zijn geen reminders voor vandaag

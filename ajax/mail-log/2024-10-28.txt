@@ -1,0 +1,27 @@
+---------------------------------------------------------------------
+Date: 2024-10-28 20:00:07
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: Garage Marc Mooij
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, 
+--customer: Koburg B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: onderhoud, 
+--customer: Dhr. Ligthart
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, onderhoud, 
+--customer: Norder Cement- en Betonvloeren B.V.
+success:
+    send reminder successful
+    updated history and next reminder date

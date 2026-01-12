@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2024-02-14 08:00:06
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: Het Zorgperron
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-02-14 20:00:03
+success: er zijn geen reminders voor vandaag

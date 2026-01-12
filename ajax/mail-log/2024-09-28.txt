@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2024-09-28 07:00:09
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: onderhoud, 
+--customer: Tanni's Fashion
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-09-28 19:00:00
+success: er zijn geen reminders voor vandaag

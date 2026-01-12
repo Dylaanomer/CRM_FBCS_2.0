@@ -1,0 +1,9 @@
+---------------------------------------------------------------------
+Date: 2024-04-30 19:00:03
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, mail, 
+--customer: De Tuinwijzer
+success:
+    send reminder successful
+    updated history and next reminder date

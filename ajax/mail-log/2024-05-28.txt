@@ -1,0 +1,18 @@
+---------------------------------------------------------------------
+Date: 2024-05-28 07:00:08
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, mail, 
+--customer: Meubelfabriek FMO
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, 
+--customer: Villa Kakelbont
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-05-28 19:00:10
+success: er zijn geen reminders voor vandaag

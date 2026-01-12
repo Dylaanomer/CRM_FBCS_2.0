@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2024-02-29 08:00:12
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: verhuur, 
+--customer: T. Ligthart Transport
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-02-29 20:00:08
+success: er zijn geen reminders voor vandaag

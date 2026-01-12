@@ -1,0 +1,24 @@
+---------------------------------------------------------------------
+Date: 2025-02-03 08:00:02
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: hosting, mail, onderhoud, 
+--customer: Paul Kriek (Mixedmediaandmore)
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, 
+--customer: Nedtech Kozijnen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, 
+--customer: TheNewJob
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-02-03 20:00:04
+success: er zijn geen reminders voor vandaag

@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2025-07-07 07:00:05
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, hosting, 
+--customer: Uitvaartverzorging De Haan
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-07-07 19:00:01
+success: er zijn geen reminders voor vandaag

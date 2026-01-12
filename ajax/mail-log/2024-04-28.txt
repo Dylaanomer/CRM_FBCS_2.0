@@ -1,0 +1,30 @@
+---------------------------------------------------------------------
+Date: 2024-04-28 07:00:06
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, domainname, hosting, 
+--customer: Ted Culinair
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: GekOpHout.com
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: Houters Hout
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: Roon Bike Travel
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-04-28 19:00:10
+success: er zijn geen reminders voor vandaag

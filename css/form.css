@@ -1,0 +1,30 @@
+#create {
+  background-color: #232323;
+  width: 50%;
+  height: 100vh;
+}
+
+#create header div {
+  width: calc(20% - 1.1px);
+}
+
+#form {
+  padding: 10px;
+  font-size: 120%;
+  width: 90%;
+  margin: 0 auto;
+}
+
+#forms {
+  font-size: 120%;
+}
+
+label {
+  display: block;
+}
+
+.duration-msg {
+  font-size: 150%;
+  font-weight: bold;
+  color: white;
+}

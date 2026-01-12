@@ -1,0 +1,42 @@
+---------------------------------------------------------------------
+Date: 2024-01-12 08:00:01
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, mail, hosting, 
+--customer: AVB Elektrotechniek
+---------------------------------------------------------------------
+Date: 2024-01-12 08:00:10
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, mail, hosting, 
+--customer: AVB Elektrotechniek
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: verhuur, 
+--customer: Dhr. Doodeman
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: verhuur, 
+--customer: Dhr. Doodeman
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, hosting, mail, 
+--customer: Marjon van Baar
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: hosting, mail, domainname, 
+--customer: Marjon van Baar
+success:
+    send reminder successful
+success:
+    send reminder successful
+    updated history and next reminder date
+    updated history and next reminder date

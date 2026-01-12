@@ -1,0 +1,33 @@
+---------------------------------------------------------------------
+Date: 2023-11-06 08:00:09
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: hosting, mail, onderhoud, 
+--customer: Marcel Rinkel Bouwbegeleiding
+error: could not send mail
+Could not instantiate mail function.
+---------------------------------------------------------------------
+Date: 2023-11-06 10:16:12
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: hosting, mail, onderhoud, 
+--customer: Marcel Rinkel Bouwbegeleiding
+error: could not send mail
+Could not instantiate mail function.
+---------------------------------------------------------------------
+Date: 2023-11-06 10:21:44
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: hosting, mail, onderhoud, 
+--customer: Marcel Rinkel Bouwbegeleiding
+error: could not send mail
+SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+---------------------------------------------------------------------
+Date: 2023-11-06 10:22:14
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, onderhoud, hosting, 
+--customer: Marcel Rinkel Bouwbegeleiding
+success:
+    send reminder successful
+    updated history and next reminder date

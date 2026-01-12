@@ -1,0 +1,30 @@
+---------------------------------------------------------------------
+Date: 2025-07-29 07:00:05
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, 
+--customer: S en K Totaalproject
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, mail, 
+--customer: M.A. Schouten Transport
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, 
+--customer: De Boerenmeid
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, domainname, 
+--customer: RMB Steigergroep
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-07-29 19:00:04
+success: er zijn geen reminders voor vandaag

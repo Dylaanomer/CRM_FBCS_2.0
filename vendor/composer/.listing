@@ -1,0 +1,10 @@
+drwxr-xr-x    2 fbcs       fbcs              203 Oct 17 16:54 .
+drwxr-xr-x    4 fbcs       fbcs               59 Oct 17 16:54 ..
+-rw-r--r--    1 fbcs       fbcs            13459 Oct 17 16:54 ClassLoader.php
+-rw-r--r--    1 fbcs       fbcs             1070 Oct 17 16:54 LICENSE
+-rw-r--r--    1 fbcs       fbcs              147 Oct 17 16:54 autoload_classmap.php
+-rw-r--r--    1 fbcs       fbcs              149 Oct 17 16:54 autoload_namespaces.php
+-rw-r--r--    1 fbcs       fbcs              223 Oct 17 16:54 autoload_psr4.php
+-rw-r--r--    1 fbcs       fbcs             1762 Oct 17 16:54 autoload_real.php
+-rw-r--r--    1 fbcs       fbcs              858 Oct 17 16:54 autoload_static.php
+-rw-r--r--    1 fbcs       fbcs             2349 Oct 17 16:54 installed.json

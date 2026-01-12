@@ -1,0 +1,9 @@
+---------------------------------------------------------------------
+Date: 2024-03-19 08:00:09
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: hosting, domainname, 
+--customer: Rijschool Rick V.O.F.
+success:
+    send reminder successful
+    updated history and next reminder date

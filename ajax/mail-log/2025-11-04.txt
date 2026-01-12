@@ -1,0 +1,36 @@
+---------------------------------------------------------------------
+Date: 2025-11-04 08:00:05
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: S.A.M. Schagen B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: onderhoud, cloudcare, 
+--customer: Westfries Goed Makelaars en Adviseurs
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, 
+--customer: C Gallery Exclusive
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, cloudcare, 
+--customer: Nannings Occasions
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: verhuur, 
+--customer: Mevr. Weerdesteyn
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-11-04 20:00:02
+success: er zijn geen reminders voor vandaag

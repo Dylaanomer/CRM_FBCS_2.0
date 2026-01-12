@@ -1,0 +1,18 @@
+---------------------------------------------------------------------
+Date: 2025-11-25 08:00:03
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, mail, 
+--customer: AB Finance & More
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: voip, 
+--customer: Padstal
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-11-25 20:00:01
+success: er zijn geen reminders voor vandaag

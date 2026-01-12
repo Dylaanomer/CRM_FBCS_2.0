@@ -1,0 +1,29 @@
+---------------------------------------------------------------------
+Date: 2025-01-06 08:00:08
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: hosting, mail, 
+--customer: Roon Bike Travel
+error: could not send mail
+SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+---------------------------------------------------------------------
+Date: 2025-01-06 20:00:05
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, hosting, 
+--customer: Roon Bike Travel
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, mail, mail, 
+--customer: Van Dam Automobielen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, onderhoud, 
+--customer: Marcel Rinkel Bouwbegeleiding
+success:
+    send reminder successful
+    updated history and next reminder date

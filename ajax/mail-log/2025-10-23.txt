@@ -1,0 +1,18 @@
+---------------------------------------------------------------------
+Date: 2025-10-23 07:00:01
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: onderhoud, 
+--customer: De Bokkesprong
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: onderhoud, cloudcare, 
+--customer: De HRman
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-10-23 19:00:06
+success: er zijn geen reminders voor vandaag

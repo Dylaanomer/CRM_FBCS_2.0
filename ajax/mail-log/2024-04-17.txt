@@ -1,0 +1,9 @@
+---------------------------------------------------------------------
+Date: 2024-04-17 19:00:10
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, 
+--customer: Stichting Dorpshuis De Nieuwe Haven
+success:
+    send reminder successful
+    updated history and next reminder date

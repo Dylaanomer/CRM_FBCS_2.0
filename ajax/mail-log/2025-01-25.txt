@@ -1,0 +1,30 @@
+---------------------------------------------------------------------
+Date: 2025-01-25 08:00:04
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, mail, hosting, 
+--customer: Berg BHV
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, 
+--customer: Ooms Dienstverlening
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, hosting, mail, 
+--customer: Kerkhuys
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, hosting, domainname, 
+--customer: Jaarmarkt Nibbixwoud
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-01-25 20:00:04
+success: er zijn geen reminders voor vandaag

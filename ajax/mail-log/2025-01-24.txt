@@ -1,0 +1,18 @@
+---------------------------------------------------------------------
+Date: 2025-01-24 08:00:07
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: Tandheelkundig Centrum Opmeer
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: De HypotheekAcademie
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-01-24 20:00:05
+success: er zijn geen reminders voor vandaag

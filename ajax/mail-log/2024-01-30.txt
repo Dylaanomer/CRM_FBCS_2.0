@@ -1,0 +1,15 @@
+---------------------------------------------------------------------
+Date: 2024-01-30 20:00:06
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: Meubelfabriek FMO
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, domainname, 
+--customer: Zaandam Citybikes
+success:
+    send reminder successful
+    updated history and next reminder date

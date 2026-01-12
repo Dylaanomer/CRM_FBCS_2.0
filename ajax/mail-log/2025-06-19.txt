@@ -1,0 +1,24 @@
+---------------------------------------------------------------------
+Date: 2025-06-19 07:00:06
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: onderhoud, 
+--customer: CJW de Moel
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, hosting, mail, 
+--customer: Praktijk Het Veld
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, mail, 
+--customer: Groot Automotive Services
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-06-19 19:00:01
+success: er zijn geen reminders voor vandaag

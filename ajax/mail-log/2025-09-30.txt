@@ -1,0 +1,18 @@
+---------------------------------------------------------------------
+Date: 2025-09-30 07:00:10
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: verhuur, 
+--customer: Joke Beerepoot
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, 
+--customer: Compleet B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-09-30 19:00:08
+success: er zijn geen reminders voor vandaag

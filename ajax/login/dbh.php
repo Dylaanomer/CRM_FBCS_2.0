@@ -1,0 +1,13 @@
+<?php
+$mysqlserver = "localhost";
+$mysqluser = "root";
+$mysqlpass = "";
+$mysqldb = "fbcs.nl_reminder_PHP";
+
+$conn = new mysqli($mysqlserver, $mysqluser, $mysqlpass, $mysqldb);
+
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+    http_response_code(500);
+}
+?>

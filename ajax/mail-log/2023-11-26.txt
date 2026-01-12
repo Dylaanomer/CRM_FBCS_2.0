@@ -1,0 +1,69 @@
+---------------------------------------------------------------------
+Date: 2023-11-26 08:00:04
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: hosting, mail, domainname, domainname, domainname, 
+--customer: De Smederij
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: voip, 
+--customer: Meubelfabriek FMO
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: internet, voip, 
+--customer: Danenberg Kozijnen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, 
+--customer: Aannemingsbedrijf N.P. Bakker
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: Oxalis
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: Steel Creations B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: onderhoud, 
+--customer: Mevr. Postma
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, mail, cloudcare, 
+--customer: Uitvaartverzorging De Haan
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, mail, 
+--customer: Slimmer Wonen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: hosting, mail, 
+--customer: Het Wagenwiel
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, 
+--customer: Life Line Solutions
+success:
+    send reminder successful
+    updated history and next reminder date

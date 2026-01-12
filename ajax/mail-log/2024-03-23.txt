@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2024-03-23 08:00:02
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: onderhoud, 
+--customer: Fam. Koning
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-03-23 20:00:05
+success: er zijn geen reminders voor vandaag

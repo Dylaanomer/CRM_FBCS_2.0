@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2024-09-15 07:00:02
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: onderhoud, 
+--customer: Jan Sijm Transport Opleidingen
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-09-15 19:00:05
+success: er zijn geen reminders voor vandaag

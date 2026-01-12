@@ -1,0 +1,18 @@
+---------------------------------------------------------------------
+Date: 2024-07-23 07:00:04
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, 
+--customer: Koburg B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, 
+--customer: Gebr. Huisman B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-07-23 19:00:12
+success: er zijn geen reminders voor vandaag

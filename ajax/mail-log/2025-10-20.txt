@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2025-10-20 07:00:03
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: hosting, 
+--customer: Mevr. van der Burg
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-10-20 19:00:07
+success: er zijn geen reminders voor vandaag

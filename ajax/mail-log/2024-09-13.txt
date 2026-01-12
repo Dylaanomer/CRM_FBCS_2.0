@@ -1,0 +1,24 @@
+---------------------------------------------------------------------
+Date: 2024-09-13 07:00:06
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: hosting, 
+--customer: Autoservice Cok
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, domainname, 
+--customer: Tandartspraktijk Bartels
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: hosting, 
+--customer: Stichting Dorpshuis De Nieuwe Haven
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-09-13 19:00:10
+success: er zijn geen reminders voor vandaag

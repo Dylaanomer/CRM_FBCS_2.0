@@ -1,0 +1,15 @@
+---------------------------------------------------------------------
+Date: 2024-05-21 07:00:05
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, mail, 
+--customer: Melkveebedrijf Vriend
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: Domein per jaar en de Office365 standard per kwart
+success:
+    send reminder successful
+    updated history and next reminder date

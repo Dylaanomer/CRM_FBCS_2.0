@@ -1,0 +1,30 @@
+---------------------------------------------------------------------
+Date: 2025-10-04 07:00:02
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, 
+--customer: Compleet B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, onderhoud, 
+--customer: Westfries Goed Makelaars en Adviseurs
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, 
+--customer: Vriend Tulips
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: verhuur, 
+--customer: Mevr. Weerdesteyn
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-10-04 19:00:08
+success: er zijn geen reminders voor vandaag

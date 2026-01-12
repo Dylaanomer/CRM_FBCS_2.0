@@ -1,0 +1,18 @@
+---------------------------------------------------------------------
+Date: 2025-08-31 07:00:06
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, domainname, 
+--customer: Robbert Spil Timmerbedrijf
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: hosting, 
+--customer: Ooms Dienstverlening
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-08-31 19:00:00
+success: er zijn geen reminders voor vandaag

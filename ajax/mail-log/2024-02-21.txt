@@ -1,0 +1,21 @@
+---------------------------------------------------------------------
+Date: 2024-02-21 08:00:13
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: hosting, 
+--customer: Compleet B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: onderhoud, 
+--customer: Dhr. van Seijen
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-02-21 08:00:22
+success: er zijn geen reminders voor vandaag
+---------------------------------------------------------------------
+Date: 2024-02-21 20:00:04
+success: er zijn geen reminders voor vandaag

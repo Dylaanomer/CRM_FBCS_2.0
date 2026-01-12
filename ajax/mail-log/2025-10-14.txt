@@ -1,0 +1,30 @@
+---------------------------------------------------------------------
+Date: 2025-10-14 07:00:06
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: verhuur, 
+--customer: Marco Groen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: onderhoud, 
+--customer: Karin Koomen Educatief Projectbureau
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, mail, 
+--customer: Handbalvereniging Meteoor
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, 
+--customer: Jean van den Berg
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-10-14 19:00:01
+success: er zijn geen reminders voor vandaag

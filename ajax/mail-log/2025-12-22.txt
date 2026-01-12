@@ -1,0 +1,24 @@
+---------------------------------------------------------------------
+Date: 2025-12-22 08:00:09
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: Dual Logistics B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: Zwemschool Jos Koelemeijer
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, 
+--customer: TLA Kees van Muiswinkel
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-12-22 20:00:00
+success: er zijn geen reminders voor vandaag

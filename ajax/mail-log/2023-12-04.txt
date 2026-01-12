@@ -1,0 +1,15 @@
+---------------------------------------------------------------------
+Date: 2023-12-04 08:00:03
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: VCO
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: onderhoud, 
+--customer: Alders Archeo
+success:
+    send reminder successful
+    updated history and next reminder date

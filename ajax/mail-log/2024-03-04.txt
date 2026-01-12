@@ -1,0 +1,24 @@
+---------------------------------------------------------------------
+Date: 2024-03-04 08:00:03
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, hosting, onderhoud, 
+--customer: Paul Kriek (Mixedmediaandmore)
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, 
+--customer: Brilshop
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: hosting, domainname, mail, 
+--customer: Hoy Renuncio
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-03-04 20:00:07
+success: er zijn geen reminders voor vandaag

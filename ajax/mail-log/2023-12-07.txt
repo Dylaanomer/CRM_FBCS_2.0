@@ -1,0 +1,9 @@
+---------------------------------------------------------------------
+Date: 2023-12-07 08:00:06
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, 
+--customer: Life Line Solutions
+success:
+    send reminder successful
+    updated history and next reminder date

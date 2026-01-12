@@ -1,0 +1,21 @@
+---------------------------------------------------------------------
+Date: 2024-07-12 19:00:05
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: verhuur, 
+--customer: T.B. Doodeman
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, hosting, 
+--customer: Rijschool Rick V.O.F.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, 
+--customer: Sijs B.V.
+success:
+    send reminder successful
+    updated history and next reminder date

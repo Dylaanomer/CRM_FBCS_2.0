@@ -1,0 +1,15 @@
+---------------------------------------------------------------------
+Date: 2024-05-07 07:00:06
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: hosting, domainname, 
+--customer: Fam. Koelemeijer
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: hosting, domainname, 
+--customer: Evase
+success:
+    send reminder successful
+    updated history and next reminder date

@@ -1,0 +1,18 @@
+---------------------------------------------------------------------
+Date: 2025-10-07 07:00:07
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, 
+--customer: Fun By Andre hoeve
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: verhuur, 
+--customer: Mevr. Visscher
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-10-07 19:00:01
+success: er zijn geen reminders voor vandaag

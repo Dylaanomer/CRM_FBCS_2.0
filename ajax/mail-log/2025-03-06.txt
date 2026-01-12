@@ -1,0 +1,24 @@
+---------------------------------------------------------------------
+Date: 2025-03-06 08:00:07
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, 
+--customer: Jan & Kees Ligthart
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, domainname, 
+--customer: Fluwel
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: onderhoud, mail, 
+--customer: Marcel Rinkel Bouwbegeleiding
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-03-06 20:00:00
+success: er zijn geen reminders voor vandaag

@@ -1,0 +1,33 @@
+---------------------------------------------------------------------
+Date: 2024-03-29 08:00:02
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: verhuur, 
+--customer: T. Ligthart Transport
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: Gezinshuis Met Elkaar
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, mail, 
+--customer: Sam Ligthart Transport
+---------------------------------------------------------------------
+Date: 2024-03-29 08:00:12
+success:
+    send reminder successful
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, mail, 
+--customer: Sam Ligthart Transport
+    updated history and next reminder date
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-03-29 20:00:08
+success: er zijn geen reminders voor vandaag

@@ -1,0 +1,15 @@
+---------------------------------------------------------------------
+Date: 2024-01-03 08:00:05
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, 
+--customer: Compleet B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: verhuur, 
+--customer: Richelle Groen
+success:
+    send reminder successful
+    updated history and next reminder date

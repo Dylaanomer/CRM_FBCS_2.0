@@ -1,0 +1,18 @@
+---------------------------------------------------------------------
+Date: 2025-01-31 08:00:02
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: Pronk Dakkapellen
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: onderhoud, 
+--customer: Astro Media
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-01-31 20:00:09
+success: er zijn geen reminders voor vandaag

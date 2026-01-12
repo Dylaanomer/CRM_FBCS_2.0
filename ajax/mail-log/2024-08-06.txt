@@ -1,0 +1,18 @@
+---------------------------------------------------------------------
+Date: 2024-08-06 07:00:05
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: Blankendaal Tulips
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, onderhoud, 
+--customer: Marcel Rinkel Bouwbegeleiding
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-08-06 19:00:09
+success: er zijn geen reminders voor vandaag

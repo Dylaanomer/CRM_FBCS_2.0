@@ -1,0 +1,21 @@
+---------------------------------------------------------------------
+Date: 2024-06-06 07:00:07
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, 
+--customer: Nel Makkinga
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, mail, 
+--customer: Aannemingsbedrijf Dirk Blauw
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, onderhoud, 
+--customer: Marcel Rinkel Bouwbegeleiding
+success:
+    send reminder successful
+    updated history and next reminder date

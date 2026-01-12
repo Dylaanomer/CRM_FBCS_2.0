@@ -1,0 +1,9 @@
+---------------------------------------------------------------------
+Date: 2023-12-16 08:00:11
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, mail, cloudcare, onderhoud, mail, 
+--customer: Goudsmid Marijke Mul
+success:
+    send reminder successful
+    updated history and next reminder date

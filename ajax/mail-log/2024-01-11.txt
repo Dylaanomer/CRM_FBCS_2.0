@@ -1,0 +1,15 @@
+---------------------------------------------------------------------
+Date: 2024-01-11 08:00:07
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, 
+--customer: Michelle Schouten
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: mail, 
+--customer: KozijnXpert
+success:
+    send reminder successful
+    updated history and next reminder date

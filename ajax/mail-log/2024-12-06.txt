@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2024-12-06 08:00:06
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, onderhoud, 
+--customer: Marcel Rinkel Bouwbegeleiding
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-12-06 20:00:10
+success: er zijn geen reminders voor vandaag

@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2025-10-10 07:00:06
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, 
+--customer: Bouwbedrijf Immink
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-10-10 19:00:02
+success: er zijn geen reminders voor vandaag

@@ -1,0 +1,24 @@
+---------------------------------------------------------------------
+Date: 2024-12-04 08:00:08
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: VCO
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: onderhoud, 
+--customer: Alders Archeo
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: onderhoud, cloudcare, 
+--customer: Westfries Goed Makelaars en Adviseurs
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-12-04 20:00:05
+success: er zijn geen reminders voor vandaag

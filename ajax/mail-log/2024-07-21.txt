@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2024-07-21 07:00:03
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: hosting, 
+--customer: Zomerhoeve
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-07-21 19:00:09
+success: er zijn geen reminders voor vandaag

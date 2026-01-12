@@ -1,0 +1,30 @@
+---------------------------------------------------------------------
+Date: 2025-09-16 07:00:03
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: Zwemschool Jos Koelemeijer
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: hosting, 
+--customer: Tanni's Fashion
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: onderhoud, 
+--customer: Dhr. H. v.d. Spoel
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, 
+--customer: Jean van den Berg
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-09-16 19:00:06
+success: er zijn geen reminders voor vandaag

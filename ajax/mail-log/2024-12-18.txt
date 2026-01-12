@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2024-12-18 08:00:01
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: Aannemingsbedrijf N.P. Bakker
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-12-18 20:00:04
+success: er zijn geen reminders voor vandaag

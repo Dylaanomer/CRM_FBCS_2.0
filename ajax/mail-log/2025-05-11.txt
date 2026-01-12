@@ -1,0 +1,30 @@
+---------------------------------------------------------------------
+Date: 2025-05-11 07:00:03
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, 
+--customer: KoBro
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, 
+--customer: Roelofsen Bouwbedrijf
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, mail, 
+--customer: Abundance Agri B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: domainname, mail, 
+--customer: Daan Bierman Techniek
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2025-05-11 19:00:09
+success: er zijn geen reminders voor vandaag

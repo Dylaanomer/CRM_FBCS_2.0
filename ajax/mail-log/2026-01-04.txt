@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2026-01-04 08:00:00
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: onderhoud, cloudcare, 
+--customer: Westfries Goed Makelaars en Adviseurs
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2026-01-04 20:00:00
+success: er zijn geen reminders voor vandaag

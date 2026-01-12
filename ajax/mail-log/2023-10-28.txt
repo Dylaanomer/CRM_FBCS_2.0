@@ -1,0 +1,62 @@
+---------------------------------------------------------------------
+Date: 2023-10-29 10:57:46
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: Garage Marc Mooij
+error: could not send mail
+Could not execute: /usr/sbin/sendmail
+---------------------------------------------------------------------
+Date: 2023-10-29 10:58:15
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: Garage Marc Mooij
+error: could not send mail
+Could not execute: /usr/sbin/sendmail
+---------------------------------------------------------------------
+Date: 2023-10-29 11:00:04
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: Garage Marc Mooij
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, 
+--customer: Koburg B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: onderhoud, 
+--customer: Dhr. Ligthart
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: cloudcare, onderhoud, 
+--customer: Norder Cement- en Betonvloeren B.V.
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2023-10-29 11:31:23
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: Garage Marc Mooij
+error: could not send mail
+Could not instantiate mail function.
+---------------------------------------------------------------------
+Date: 2023-10-29 11:31:34
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: Garage Marc Mooij
+error: could not send mail
+Could not instantiate mail function.
+---------------------------------------------------------------------
+Date: 2023-10-29 14:12:40
+success: er zijn geen reminders voor vandaag

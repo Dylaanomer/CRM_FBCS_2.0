@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2024-09-11 07:00:01
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: domainname, hosting, 
+--customer: Skuif us an
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-09-11 19:00:09
+success: er zijn geen reminders voor vandaag

@@ -1,0 +1,18 @@
+---------------------------------------------------------------------
+Date: 2024-05-23 07:00:02
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: mail, mail, 
+--customer: Dexter Interieur
+success:
+    send reminder successful
+    updated history and next reminder date
+sending reminder:
+    --product: verhuur, 
+--customer: Zwemschool Gijs Koelemeijer
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-05-23 19:00:07
+success: er zijn geen reminders voor vandaag

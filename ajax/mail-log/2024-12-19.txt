@@ -1,0 +1,12 @@
+---------------------------------------------------------------------
+Date: 2024-12-19 08:00:07
+sending reminders to info@fbcs.nl
+sending reminder:
+    --product: cloudcare, 
+--customer: Van der Bel Las & Radiateuren
+success:
+    send reminder successful
+    updated history and next reminder date
+---------------------------------------------------------------------
+Date: 2024-12-19 20:00:03
+success: er zijn geen reminders voor vandaag
