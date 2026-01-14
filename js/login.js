@@ -7,7 +7,7 @@ $(document).on('click', 'button[type=submit]', function() {
   } else {
     page = "register.php";
   }
-  
+
   jQuery.ajax({
     url: "ajax/login/"+page,
     data:'username='+inputs.username

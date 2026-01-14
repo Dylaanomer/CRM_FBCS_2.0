@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title> Login - FBCS Reminder </title>
+    <title> Login - CRM FBCS </title>
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/login.css">
   </head>
@@ -11,15 +11,15 @@
 
       <div id="errormessage"> </div>
 
-      <label for="username"> Username </label>
+      <label for="username"> Gebruikersnaam </label>
       <input id="username" type="text" name="username" autofocus>
-      
-      <label for="password"> Password </label>
+
+      <label for="password"> Wachtwoord </label>
       <input id="password" type="password" name="password">
 
       <button type="submit">Log In</button>
 
-      <div id="toggleState">Register</div>
+      <div id="toggleState">Aanmelden</div>
     </div>
   </body>
 </html>

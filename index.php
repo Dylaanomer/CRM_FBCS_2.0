@@ -5,7 +5,7 @@
 
 <html>
   <head>
-    <title> FBCS Reminder </title>
+    <title>CRM FBCS</title>
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/dashboard.css">
     <link rel="stylesheet" href="css/form.css">
@@ -23,16 +23,10 @@
             Dashboard
             <select name="remindertype" id="remindertypeselector">
               <option value="alles">Alles</option>
-              <option value="hosting">Web-Hosting</option>
-              <option value="mail">Microsfot 365</option>
-              <option value="domainname">Domeinnaam</option>
+              <option value="hosting">Onderhoudjes Overzicht</option>
+              <option value="mail">Nieuwe PC klaarmaken Overzicht</option>
+              <option value="domainname">Overige Werk</option>
               <option value="ssl">SSL Certificaat</option>
-              <option value="cloudcare">Cloudcare</option>
-              <option value="cloudbackup">Cloud Backup</option>
-              <option value="onderhoud">Onderhouds Abonnement</option>
-              <option value="verhuur">Verhuur Apparatuur</option>
-              <option value="voip">VOIP</option>
-              <option value="internet">Internet</option>
             </select>
           </div>
           <div id="history" class="state"> History </div>

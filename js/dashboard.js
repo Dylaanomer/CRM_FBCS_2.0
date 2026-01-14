@@ -1,4 +1,4 @@
-let state = "upcoming"; 
+let state = "upcoming";
 let info = {};
 let customer = {};
 let get_values = get_query();
@@ -56,7 +56,7 @@ $(document).on('click', '.infobutton', function() {
 $(document).on('input', '#customer_id', function() {
   //set customer_id and reset inputs
   customer.customer_id = $(this).val();
-  
+
   //reset inputs to immediately create a new reminder without clicking the button
   $("#new-reminder").trigger('click');
 
@@ -71,7 +71,7 @@ $(document).on('input', '#customer_id', function() {
     let i = 0;
 
     $("#customer_id_list").html("");
-    
+
     while (data[i]) {
       $("#customer_id_list").append(`<option value="${data[i].customer_id}"> ${data[i].customer} </option>`);
       i++;
@@ -95,7 +95,7 @@ $(document).on('input', '.customerform', function() {
   let key = $(this).attr('name');
   let value = $(this).val();
   customer[key] = value;
-  
+
   jQuery.ajax({
     url: "ajax/save-customer.php",
     data:'customer_id='+encodeURIComponent(customer.customer_id)
@@ -158,21 +158,21 @@ function renderInfo(id) {
     type: "POST",
   success:function(res){
     data = JSON.parse(res);
-    
+
     inputs.type = data.type;
     inputs.date_start = data.date_start;
     inputs.date_stop = data.date_stop;
     inputs.interval = data.interval;
     inputs.amount = data.amount;
     inputs.optional = data.optional;
-    
+
     inputs.reminder_id = id;
     if (state !== "customers") {
       customer.customer_id = data.customer_id;
       $("#customers").trigger('click');
       renderCustomer();
     }
-    
+
     renderForm();
   },
   error:function(err){

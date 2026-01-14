@@ -33,7 +33,7 @@ $(document).on('click', '#submit', function() {
   //   next_due = inputs.date_start
   // } else {
   //   next_due.setMonth(next_due.getMonth() + Number(inputs.interval))
-    
+
   // }
 
   while (next_due < dateNow) next_due.setMonth(next_due.getMonth() + Number(inputs.interval))
@@ -152,7 +152,7 @@ function renderForm() {
     form += `<div class="duration-msg"> 1 maand </div>`
 
     inputs.interval = 1
-  } 
+  }
 
   //add date_stop and buttons
   form += `<label for="date_stop"> Stop datum </label>\
@@ -167,7 +167,7 @@ function renderForm() {
     $("label#amount").append(" (per 25GB)")
   } else if (inputs.type === "cloudcare" || inputs.type === "onderhoud") {
     $("label#amount").append(" Computers")
-  } 
+  }
 
   //set the values
   if (inputs.optional !== '') {
