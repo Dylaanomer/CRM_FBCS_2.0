@@ -15,12 +15,12 @@
     <div class="container">
       <div id="dashboard">
         <header id="states">
-          <div class="userstate"> 
+          <div class="userstate">
             <?php echo $_COOKIE["name"]; ?>
-            <button id="logout"> Log uit </button> 
+            <button id="logout"> Log uit </button>
           </div>
-          <div id="upcoming" class="state"> 
-            Dashboard 
+          <div id="upcoming" class="state">
+            Dashboard
             <select name="remindertype" id="remindertypeselector">
               <option value="alles">Alles</option>
               <option value="hosting">Web-Hosting</option>
@@ -39,7 +39,7 @@
           <div id="customers" class="state"> Klanten </div>
         </header>
         <div id="dashboard-content">
-                  
+
         </div>
       </div>
       <div id="create">
@@ -56,7 +56,7 @@
           <div id="internet"> Internet </div>
         </header>
         <div id="form">
-          
+
         </div>
       </div>
     </div>
