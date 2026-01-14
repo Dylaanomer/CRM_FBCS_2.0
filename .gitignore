@@ -1,4 +1,4 @@
-vendor/phpmailer/phpmailer
+/vendor/
 /ajax/mail-log/
 .env.local
-vendor/phpmailer/phpmailer
+
