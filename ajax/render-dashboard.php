@@ -52,18 +52,18 @@ if ($result->num_rows > 0) {
     $next_due = date("Y-m-d", strtotime($row["next_due"]));
     $now = new DateTime();
     $now = $now->format("Y-m-d");
-  
+
     if ($now > $next_due && $content_type === "upcoming") {
       echo '<div class="list-container error">';
     } else {
       echo '<div class="list-container">';
     }
-  
+
     if ($content_type !== "customer") {
       echo '<div> '.$row["customer"].' </div>';
     }
-    
-    echo '<div> '.$row["type"].' </div>        
+
+    echo '<div> '.$row["type"].' </div>
           <div> '.$row["next_due"].' </div>
           <div> '.$row["created_by"].' </div>
           <button id="'.$row["reminder_id"].'" class="infobutton"> Info </button>
@@ -71,7 +71,7 @@ if ($result->num_rows > 0) {
   }
 }
 if ($content_type === "customer") {
-  echo '<div class="list-container"> 
+  echo '<div class="list-container">
           <button id="new-reminder"> Toevoegen </button>
         </div>';
 }

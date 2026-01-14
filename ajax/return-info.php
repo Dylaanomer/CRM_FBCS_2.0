@@ -35,7 +35,7 @@ if (!$conn->query($sql)) {
 if ($result->num_rows > 0) {
   if ($content_type === "reminder") {
     $row = $result->fetch_assoc();
-  
+
     //set data from row into table so it can be send in json format
     $data = array('type' => $row['type'],
                   'date_start' => $row['date_start'],
@@ -44,7 +44,7 @@ if ($result->num_rows > 0) {
                   'amount' => $row['amount'],
                   'optional' => $row['optional'],
                   'customer_id' => $row['customer_id']);
-  
+
     echo json_encode($data);
   } else if ($content_type === "customer") {
     $row = $result->fetch_assoc();

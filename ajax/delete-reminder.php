@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 require 'login/cookie.php';
 
