@@ -38,16 +38,9 @@
       </div>
       <div id="create">
         <header id="forms">
-          <div id="hosting"> Web-Hosting en SSL </div>
-          <div id="mail"> Microsoft 365 </div>
-          <div id="domainname"> Domeinnaam </div>
-          <div id="ssl"> SSL certificaat </div>
-          <div id="cloudcare"> Cloudcare </div>
-          <div id="cloudbackup"> Cloud Backup </div>
-          <div id="onderhoud"> Onderhouds Abonnement </div>
-          <div id="verhuur"> Verhuur Apparatuur </div>
-          <div id="voip"> VOIP </div>
-          <div id="internet"> Internet </div>
+          <div id="hosting">Onderhoud Klanten</div>
+          <div id="hosting">Nieuwe PC klaarmaken</div>
+          <div id="hosting">Klant Verzoeken</div>
         </header>
         <div id="form">
 
