@@ -29,7 +29,7 @@
               <option value="ssl">SSL Certificaat</option>
             </select>
           </div>
-          <div id="history" class="state"> History </div>
+          <div id="history" class="state">Geschiedenis</div>
           <div id="customers" class="state"> Klanten </div>
         </header>
         <div id="dashboard-content">
