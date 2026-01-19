@@ -18,7 +18,7 @@ $secure = true;
 
 setcookie("name", "", time()-3600, $path, $domain, $secure);
 setcookie("uuid", "", time()-3600, $path, $domain, $secure);
-  
+
 //echoResponse("error", "could not remove cookie from browser", 500);
 
 echoResponse("success", "logged out");

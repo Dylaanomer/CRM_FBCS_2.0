@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 include 'dbh.php';
 
@@ -8,9 +8,9 @@ $password = $_POST["password"];
 $password_check = $_POST["password_check"];
 
 //only these usernames are allowed
-if ($username != "FBCS" && 
-    $username != "Floris" && 
-    $username != "Patrick" && 
+if ($username != "FBCS" &&
+    $username != "Floris" &&
+    $username != "Patrick" &&
     $username != "Vanessa" &&
     $username != "Tom" &&
     $username != "Lars" &&
