@@ -2,7 +2,7 @@
 $mysqlserver = "localhost";
 $mysqluser = "root";
 $mysqlpass = "";
-$mysqldb = "fbcs.nl_reminder_PHP";
+$mysqldb = "fbcs.nl_licenties_PHP";
 
 $conn = new mysqli($mysqlserver, $mysqluser, $mysqlpass, $mysqldb);
 
