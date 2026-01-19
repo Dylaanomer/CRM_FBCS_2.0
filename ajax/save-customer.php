@@ -39,7 +39,7 @@ if (!$result = $conn->query($sql)) {
 
 if ($result->num_rows > 0) {
   //UPDATE EXISTING customer
-  $sql = "UPDATE customers SET 
+  $sql = "UPDATE customers SET
           customer = '$customer',
           note = '$note'
           WHERE customer_id LIKE '$customer_id';";

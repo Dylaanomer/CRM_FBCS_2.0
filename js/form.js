@@ -171,7 +171,7 @@ function renderForm() {
 
   //set the values
   if (inputs.optional !== '') {
-    if (inputs.type === "internet" || inputs.type === "onderhoud" || inputs.type === "domainname" || inputs.type === "mail") {  
+    if (inputs.type === "internet" || inputs.type === "onderhoud" || inputs.type === "domainname" || inputs.type === "mail") {
       $(`option:contains("${inputs.optional}")`).attr("selected", true)
     } else if (inputs.type === "verhuur" || inputs.type === "hosting") {
       $(`input[name="optional"]`).val(inputs.optional)
