@@ -84,28 +84,43 @@ function renderForm() {
   console.log(inputs)
   $("#forms div").removeClass("selected");
   let form = '<label for="amount"> Klant Naam</label>\
-              <input id="amount" class="forminput" type="name" name="amount">'
-
-
+              <input id="amount" class="forminput" type="name" name="amount" value="naam">'
 
    form += `<label for="optional"> Type PC </label>\
-              <input id="optional" class="forminput" type="number" name="optional" value="0">`
-
+              <input id="optional" class="forminput" type="forminput" name="optional" value="Windows PC">`
 
    form += `<label for="optional"> Windows Versie </label>\
-              <input id="optional" class="forminput" type="number" name="optional" value="0">`
+              <input id="optional" class="forminput" type="forminput" name="optional" value="11">\
+              <br></br>`
+
+   form += `    <label><input type="checkbox" name="avastCodeActivation"> Avast code geactiveerd</label>
+        <br>
+        <small>
+        <a href="https://licenties.fbcs.nl" target="_blank" style="color: black; font-weight: bold; text-decoration: none;"> Link Website voor Avast code activatie</a>
+        </small>
+        <br>
+         <label><input type="checkbox" name="energiebeheer"> Energiebeheer ingesteld</label>
+         <label><input type="checkbox" name="avastinstellingen"> Avast instellingen gedaan</label>
+        <label><input type="checkbox" name="Schijfopslag"> Schijfopslag geoptimaliseerd</label>
+        <label><input type="checkbox" name="partitiesnaamSDDHDD"> Partities hernoemd (SSD/HDD)</label>
+        <label><input type="checkbox" name="openshell"> Open-Shell geinstalleerd</label>
+        <label><input type="checkbox" name="FBCSSupremobureablad"> FBCS Supremobureablad ingesteld</label>
+        <label><input type="checkbox" name="Updates"> Alle updates uitgevoerd</label>
+        <label><input type="checkbox" name="Wifi6Settings"> Wifi 6 instellingen gedaan</label>
+        <label><input type="checkbox" name="DeliveryOptimization"> Delivery Optimization ingesteld</label>
+        <label><input type="checkbox" name="VeamAgent"> Veam Agent geinstalleerd</label>
+        <label><input type="checkbox" name="SchijfopruimingUitgevoerd"> Schijfopruiming uitgevoerd</label>
+        <label><input type="checkbox" name="FBCSOpstartMap"> FBCS Opstart Map ingesteld</label>
+        <label><input type="checkbox" name="ChromeFirefoxEdge"> Chrome, Firefox, Edge geinstalleerd</label>
+        <label><input type="checkbox" name="CoolerCleaning"> Koeler schoongemaakt</label>
+`
 
 
-   form += `<label for="optional"> Avast Licentie </label>\
-              <input id="optional" class="forminput" type="number" name="optional" value="0">`
 
-
-   form += `<label for="optional"> CCLEANER/MBAM/ADW/KRVT/Hitman Pro </label>\
-              <input id="optional" class="forminput" type="number" name="optional" value="0">`
 
   //add options
   if (inputs.type === "hosting") {
-    form += `<label for="optional"> Totaal aantal uitbreidingen (per GB) </label>\
+    form += `<label for="optional"> <br></br> Totaal aantal uitbreidingen (per GB) </label>\
               <input id="optional" class="forminput" type="number" name="optional" value="0">`
   } else if (inputs.type === "mail") {
     form += `<label for="optional"> Microsoft plan </label>\
@@ -203,3 +218,13 @@ function renderForm() {
 
   $("div[id="+inputs.type+"]").addClass("selected")
 }
+
+
+/*
+// add options
+form += `<label for="optional"> CCLEANER/MBAM/ADW/KRVT/Hitman Pro </label>
+            <input id="optional" class="forminput" type="checkbox" name="optional" value="0">`
+
+form += `<label for="optional"> Chrome/Edge/Firefox </label>
+            <input id="optional" class="forminput" type="checkbox" name="optional" value="0">`
+*/
