@@ -47,7 +47,7 @@ if ($reminder_id !== 'null') {
     $date_stop = "'".$date_stop."'";
   }
 
-  $sql = "UPDATE remindersnew SET 
+  $sql = "UPDATE remindersnew SET
           type = '$type',
           date_start = '$date_start',
           date_stop = $date_stop,

@@ -83,8 +83,8 @@ $(document).on('click', '#delete', function() {
 function renderForm() {
   console.log(inputs)
   $("#forms div").removeClass("selected");
-  let form = '<label for="amount"> Aantal </label>\
-              <input id="amount" class="forminput" type="number" name="amount">'
+  let form = '<label for="amount"> Klant Naam</label>\
+              <input id="amount" class="forminput" type="name" name="amount">'
 
   //add options
   if (inputs.type === "hosting") {
