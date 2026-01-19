@@ -86,6 +86,23 @@ function renderForm() {
   let form = '<label for="amount"> Klant Naam</label>\
               <input id="amount" class="forminput" type="name" name="amount">'
 
+
+
+   form += `<label for="optional"> Type PC </label>\
+              <input id="optional" class="forminput" type="number" name="optional" value="0">`
+
+
+   form += `<label for="optional"> Windows Versie </label>\
+              <input id="optional" class="forminput" type="number" name="optional" value="0">`
+
+
+   form += `<label for="optional"> Avast Licentie </label>\
+              <input id="optional" class="forminput" type="number" name="optional" value="0">`
+
+
+   form += `<label for="optional"> CCLEANER/MBAM/ADW/KRVT/Hitman Pro </label>\
+              <input id="optional" class="forminput" type="number" name="optional" value="0">`
+
   //add options
   if (inputs.type === "hosting") {
     form += `<label for="optional"> Totaal aantal uitbreidingen (per GB) </label>\
