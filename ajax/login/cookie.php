@@ -35,7 +35,7 @@ function checkLoginCookie() {
 
       //remove the current cookies
       $path = '/';
-      $domain = 'reminder.fbcs.nl';
+      $domain = 'crm.fbcs.nl';
       $secure = true;
 
       setcookie("name", "", time()-3600, $path, $domain, $secure);

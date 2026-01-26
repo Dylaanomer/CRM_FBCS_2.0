@@ -56,7 +56,7 @@ $nextMonthInSeconds = mktime().time()+strtotime("+1 month");
 
 $expires = $nextMonthInSeconds;
 $path = '/';
-$domain = 'reminder.fbcs.nl';
+$domain = 'crm.fbcs.nl';
 $secure = true;
 
 $uuid = generateRandomString(64); //this will be the uuid/cookie
