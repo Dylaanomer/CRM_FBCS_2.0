@@ -152,14 +152,14 @@ foreach ($backend_files as $file => $description) {
             padding: 0;
             box-sizing: border-box;
         }
-        
+
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             min-height: 100vh;
             padding: 20px;
         }
-        
+
         .test-container {
             max-width: 900px;
             margin: 0 auto;
@@ -168,24 +168,24 @@ foreach ($backend_files as $file => $description) {
             box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
             overflow: hidden;
         }
-        
+
         .test-header {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
             padding: 30px;
             text-align: center;
         }
-        
+
         .test-header h1 {
             font-size: 2.5em;
             margin-bottom: 10px;
         }
-        
+
         .test-header p {
             opacity: 0.9;
             font-size: 1.1em;
         }
-        
+
         .test-summary {
             display: flex;
             justify-content: space-around;
@@ -193,25 +193,25 @@ foreach ($backend_files as $file => $description) {
             background: #f8f9fa;
             border-bottom: 2px solid #e0e0e0;
         }
-        
+
         .summary-item {
             text-align: center;
         }
-        
+
         .summary-count {
             font-size: 2em;
             font-weight: bold;
             margin: 5px 0;
         }
-        
+
         .summary-pass { color: #4caf50; }
         .summary-fail { color: #f44336; }
         .summary-error { color: #ff9800; }
-        
+
         .tests-content {
             padding: 30px;
         }
-        
+
         .test-item {
             margin-bottom: 20px;
             border-left: 5px solid #ddd;
@@ -220,26 +220,26 @@ foreach ($backend_files as $file => $description) {
             background: #f9f9f9;
             transition: all 0.3s ease;
         }
-        
+
         .test-item:hover {
             box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
         }
-        
+
         .test-item.pass {
             border-left-color: #4caf50;
             background: #f1f8f6;
         }
-        
+
         .test-item.fail {
             border-left-color: #f44336;
             background: #fef5f5;
         }
-        
+
         .test-item.error {
             border-left-color: #ff9800;
             background: #fff8f3;
         }
-        
+
         .test-name {
             font-size: 1.1em;
             font-weight: 600;
@@ -247,7 +247,7 @@ foreach ($backend_files as $file => $description) {
             display: flex;
             align-items: center;
         }
-        
+
         .test-status {
             display: inline-block;
             padding: 5px 12px;
@@ -256,35 +256,35 @@ foreach ($backend_files as $file => $description) {
             font-weight: bold;
             margin-left: 10px;
         }
-        
+
         .status-pass {
             background: #4caf50;
             color: white;
         }
-        
+
         .status-fail {
             background: #f44336;
             color: white;
         }
-        
+
         .status-error {
             background: #ff9800;
             color: white;
         }
-        
+
         .test-message {
             color: #333;
             margin: 5px 0;
             font-size: 0.95em;
         }
-        
+
         .test-details {
             color: #666;
             font-size: 0.85em;
             margin-top: 5px;
             font-style: italic;
         }
-        
+
         .test-footer {
             background: #f8f9fa;
             padding: 20px 30px;
@@ -293,7 +293,7 @@ foreach ($backend_files as $file => $description) {
             color: #666;
             font-size: 0.9em;
         }
-        
+
         .data-table {
             width: 100%;
             border-collapse: collapse;
@@ -303,29 +303,29 @@ foreach ($backend_files as $file => $description) {
             overflow: hidden;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
-        
+
         .data-table thead {
             background: #667eea;
             color: white;
         }
-        
+
         .data-table th {
             padding: 12px 15px;
             text-align: left;
             font-weight: 600;
             border: none;
         }
-        
+
         .data-table td {
             padding: 12px 15px;
             border-bottom: 1px solid #e0e0e0;
             word-break: break-word;
         }
-        
+
         .data-table tbody tr:hover {
             background: #f5f5f5;
         }
-        
+
         .data-table tbody tr:last-child td {
             border-bottom: none;
         }
@@ -337,7 +337,7 @@ foreach ($backend_files as $file => $description) {
             <h1>🔍 System Test Report</h1>
             <p>FBCS Reminder PHP Application</p>
         </div>
-        
+
         <div class="test-summary">
             <div class="summary-item">
                 <div>Total Tests</div>
@@ -345,12 +345,12 @@ foreach ($backend_files as $file => $description) {
             </div>
             <div class="summary-item">
                 <div>Passed</div>
-                    
+
                     <?php if (!empty($test['data']) && is_array($test['data'])): ?>
                         <table class="data-table">
                             <thead>
                                 <tr>
-                                    <?php 
+                                    <?php
                                     if (!empty($test['data'])) {
                                         foreach (array_keys($test['data'][0]) as $column) {
                                             echo '<th>' . htmlspecialchars($column) . '</th>';
@@ -362,7 +362,7 @@ foreach ($backend_files as $file => $description) {
                             <tbody>
                                 <?php foreach ($test['data'] as $row): ?>
                                     <tr>
-                                        <?php 
+                                        <?php
                                         foreach ($row as $value) {
                                             echo '<td>' . htmlspecialchars($value) . '</td>';
                                         }
@@ -372,12 +372,12 @@ foreach ($backend_files as $file => $description) {
                             </tbody>
                         </table>
                     <?php endif; ?>
-                    
+
                     <?php if (!empty($test['data']) && is_array($test['data'])): ?>
                         <table class="data-table">
                             <thead>
                                 <tr>
-                                    <?php 
+                                    <?php
                                     if (!empty($test['data'])) {
                                         foreach (array_keys($test['data'][0]) as $column) {
                                             echo '<th>' . htmlspecialchars($column) . '</th>';
@@ -389,7 +389,7 @@ foreach ($backend_files as $file => $description) {
                             <tbody>
                                 <?php foreach ($test['data'] as $row): ?>
                                     <tr>
-                                        <?php 
+                                        <?php
                                         foreach ($row as $value) {
                                             echo '<td>' . htmlspecialchars($value) . '</td>';
                                         }
@@ -416,12 +416,12 @@ foreach ($backend_files as $file => $description) {
                 </div>
             </div>
         </div>
-        
+
         <div class="tests-content">
             <?php foreach ($tests as $name => $test): ?>
                 <div class="test-item <?php echo strtolower($test['status']); ?>">
                     <div class="test-name">
-                        <?php 
+                        <?php
                         if ($test['status'] === 'PASS') echo '✓ ';
                         elseif ($test['status'] === 'FAIL') echo '✗ ';
                         else echo '⚠ ';
@@ -438,7 +438,7 @@ foreach ($backend_files as $file => $description) {
                 </div>
             <?php endforeach; ?>
         </div>
-        
+
         <div class="test-footer">
             <p>Test executed on <?php echo date('Y-m-d H:i:s'); ?></p>
         </div>
