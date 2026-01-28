@@ -18,7 +18,7 @@
             <?php echo $_COOKIE["name"]; ?>
             <button id="logout"> Log uit </button>
           </div>
-          <div id="upcoming" class="state">
+          <div id="klantdata" class="state">
             Dashboard
             <select name="remindertype" id="remindertypeselector">
               <option value="alles">Alles</option>

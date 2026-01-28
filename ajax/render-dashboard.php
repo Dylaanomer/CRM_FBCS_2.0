@@ -1,14 +1,5 @@
 <?php
 
-require 'login/cookie.php';
-
-$valid_cookie = json_decode(checkLoginCookie());
-
-if ($valid_cookie->{"status"} !== "success") {
-  echo '{"status": "error", "msg": "not logged in"}';
-  exit;
-}
-
 include 'dbh.php';
 
 $content_type = $_POST['content_type'];
@@ -78,3 +69,15 @@ if ($content_type === "customer") {
 
 $conn->close();
 ?>
+
+
+// DEFUNCT CODE
+
+$valid_cookie = json_decode(checkLoginCookie());
+
+if ($valid_cookie->{"status"} !== "success") {
+  echo '{"status": "error", "msg": "not logged in"}';
+  exit;
+}
+
+//

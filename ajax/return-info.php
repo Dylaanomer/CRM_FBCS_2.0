@@ -1,25 +1,14 @@
 <?php
 
-require 'login/cookie.php';
-
-$valid_cookie = json_decode(checkLoginCookie());
-
-if ($valid_cookie->{"status"} !== "success") {
-  echo '{"status": "error", "msg": "not logged in"}';
-  exit;
-}
-
 include 'dbh.php';
 
 $content_type = $_POST['content_type'];
 $id = $_POST['id'];
 
-if ($content_type === "reminder") {
-  $sql = "SELECT * FROM remindersnew WHERE reminder_id like '$id';";
-} else if ($content_type === "customer") {
-  $sql = "SELECT customer, note FROM customers WHERE customer_id LIKE '$id';";
-} else if ($content_type === "customers") {
-  $sql = "SELECT customer, customer_id FROM customers WHERE customer LIKE '%$id%';";
+if ($content_type === "klantdata") {
+  $sql = "SELECT * FROM `test-klant-data` WHERE Klant like '$id';";
+} else if ($content_type === "onderhoud") {
+  $sql = "SELECT username FROM users WHERE id LIKE '$id';";
 }
 
 //find the data that corresponds to the row
@@ -37,16 +26,12 @@ if ($result->num_rows > 0) {
     $row = $result->fetch_assoc();
 
     //set data from row into table so it can be send in json format
-    $data = array('type' => $row['type'],
-                  'date_start' => $row['date_start'],
-                  'date_stop' => $row['date_stop'],
-                  'interval' => $row['months'],
-                  'amount' => $row['amount'],
-                  'optional' => $row['optional'],
-                  'customer_id' => $row['customer_id']);
-
+    $data = array('klant' => $row['klant'],
+                  'pc_type' => $row['pc_type'],
+                  'date' => $row['date'],
+                  'medewerker' => $row['medewerker']);
     echo json_encode($data);
-  } else if ($content_type === "customer") {
+  } else if ($content_type === "onderhoud") {
     $row = $result->fetch_assoc();
     $arr = array('customer' => $row['customer'],
                   'note' => $row['note']);
@@ -70,3 +55,14 @@ if ($result->num_rows > 0) {
 
 $conn->close();
 ?>
+
+//DEFUNCT CODE
+
+require 'login/cookie.php';
+
+$valid_cookie = json_decode(checkLoginCookie());
+
+if ($valid_cookie->{"status"} !== "success") {
+  echo '{"status": "error", "msg": "not logged in"}';
+  exit;
+}
