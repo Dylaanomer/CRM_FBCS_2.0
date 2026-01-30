@@ -32,8 +32,11 @@ echo '<div class="list-container">';
 if ($content_type !== "customer") {
   echo '<div> Klant </div>';
 }
-echo '<div> Type </div>
+echo '<div> Klant </div>
       <div> Datum </div>
+      <div> PC Type </div>
+      <div> Checklist Onderhoud </div>
+      <div> Overige Notities </div>
       <div> Medewerker </div>
       <div> Bewerken </div>
     </div>';

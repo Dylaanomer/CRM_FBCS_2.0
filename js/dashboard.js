@@ -1,4 +1,4 @@
-let state = "upcoming";
+let state = "klantdata";
 let info = {};
 let customer = {};
 let get_values = get_query();
