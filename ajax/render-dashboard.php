@@ -6,17 +6,13 @@ $content_type = $_POST['content_type'];
 $customer_id = $_POST['customer_id'];
 $filter_type = $_POST['filter_type'];
 
-//what data is requested?
-if ($content_type === "upcoming") {
+//what data is requested - KLANT-DATA?
+if ($content_type === "klant-data") {
   if ($filter_type === "alles") {
-    $sql = "SELECT r.type, r.next_due, r.created_by, r.reminder_id, c.customer FROM remindersnew r INNER JOIN customers c ON r.customer_id = c.customer_id ORDER BY r.next_due ASC;";
+    $sql = "SELECT r.Klant, r.Datum, r.Medewerker, r.Pctype, c.customer FROM `test-klant-data` r INNER JOIN customers c ON r.customer_id = c.customer_id ORDER BY r.next_due ASC;";
   } else {
-    $sql = "SELECT r.type, r.next_due, r.created_by, r.reminder_id, c.customer FROM remindersnew r INNER JOIN customers c ON r.customer_id = c.customer_id WHERE r.type LIKE '$filter_type' ORDER BY r.next_due ASC;";
+    $sql = "SELECT r.Klant, r.Datum, r.created_by, r.reminder_id, c.customer FROM remindersnew r INNER JOIN customers c ON r.customer_id = c.customer_id WHERE r.type LIKE '$filter_type' ORDER BY r.next_due ASC;";
   }
-} else if ($content_type === "history") {
-  $sql = "SELECT r.type, c.customer, r.next_due, r.created_by, r.reminder_id FROM remindersnew r INNER JOIN history h ON r.reminder_id = h.reminder_id INNER JOIN customers c ON c.customer_id = r.customer_id ORDER BY h.send_date DESC;";
-} else if ($content_type === "customer") {
-  $sql = "SELECT type, next_due, created_by, reminder_id FROM remindersnew WHERE customer_id LIKE '$customer_id';";
 }
 
 $result = $conn->query($sql);

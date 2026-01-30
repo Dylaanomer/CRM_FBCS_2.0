@@ -42,7 +42,6 @@
           <div id="hosting">Klant Verzoeken</div>
         </header>
         <div id="form">
-
         </div>
       </div>
     </div>
