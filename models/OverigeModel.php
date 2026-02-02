@@ -15,4 +15,3 @@ class OverigeModel extends BaseModel
         return $result->fetch_assoc();
     }
 }
-```

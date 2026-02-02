@@ -16,6 +16,10 @@ let HTMLcustomerInfo = '<div id=form>\
                     <div id="customer-reminders"> </div>';
 
 
+
+                    
+
+
 $(document).ready(function() {
   renderDashboard();
   if (get_values.id) {

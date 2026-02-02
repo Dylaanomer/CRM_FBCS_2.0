@@ -1,4 +1,9 @@
 <?php
+require_once __DIR__ . '/models/Customer.php';
+require_once __DIR__ . '/models/OnderhoudModel.php';
+require_once __DIR__ . '/models/OverigeModel.php';
+require_once __DIR__ . '/models/Reminder.php';
+
 
 ?>
 
