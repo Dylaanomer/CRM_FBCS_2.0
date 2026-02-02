@@ -96,6 +96,12 @@ $sample_data = [
         'Pctype' => 'Desktop',
         'Datum' => '2024-01-25',
         'Medewerker' => 'Jan Jansen'
+    ],
+    [
+        'Klant' => 'Bedrijf D',
+        'Pctype' => 'Desktop',
+        'Datum' => '2024-01-25',
+        'Medewerker' => 'Jan Jansen'
     ]
 
 ];

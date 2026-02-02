@@ -113,22 +113,22 @@ function renderForm() {
         <label><input type="checkbox" name="FBCSOpstartMap"> FBCS Opstart Map ingesteld</label>
         <label><input type="checkbox" name="ChromeFirefoxEdge"> Chrome, Firefox, Edge geinstalleerd</label>
         <label><input type="checkbox" name="CoolerCleaning"> </label>
-        <select name="remindertype" id="remindertypeselector">
-              <option value="alles">Floris Bijl</option>
-              <option value="hosting">Lars Baas</option>
-              <option value="mail">Nick Schoemaker</option>
-              <option value="domainname">Marit Schoemaker</option
-              <option value="ssl">Robin Smit</option>
-              <option value="cloudcare">Hidde Spaander</option>
-              <option value="cloudbackup">Jesse Leerdam</option>
-              <option value="onderhoud">Dylaan Omer</option>
-              <option value="verhuur">Oleksandr Stratiichuk</option>
-              <option value="voip">Robin Janneman</option>
-              <option value="internet">Bernd Broers</option>
-              <option value="nieuwemedewerker">Dejaay Buis</option>
-              <option value="nieuwemedewerker">Daan Koster</option>
-              <option value="nieuwemedewerker">Jort Schuitemaker</option>
-            </select>
+       <select name="remindertype" id="remindertypeselector"  style="width: 100%; max-width: 300px; padding: 10px 12px; font-size: 14px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #ffffff; background-color: #000000; border: 1px solid #ccc; border-radius: 4px; cursor: pointer; outline: none; transition: border-color 0.2s ease;">
+          <option value="FB">Floris Bijl</option>
+          <option value="LB">Lars Baas</option>
+          <option value="NS">Nick Schoemaker</option>
+          <option value="MS">Marit Schoemaker</option>
+          <option value="RS">Robin Smit</option>
+          <option value="HS">Hidde Spaander</option>
+          <option value="JL">Jesse Leerdam</option>
+          <option value="DO">Dylaan Omer</option>
+          <option value="OS">Oleksandr Stratiichuk</option>
+          <option value="RJ">Robin Janneman</option>
+          <option value="BB">Bernd Broers</option>
+          <option value="DB">Dejaay Buis</option>
+          <option value="DK">Daan Koster</option>
+          <option value="JS">Jort Schuitemaker</option>
+</select>
 `
   //add options
   if (inputs.type === "hosting") {
