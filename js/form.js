@@ -112,12 +112,24 @@ function renderForm() {
         <label><input type="checkbox" name="SchijfopruimingUitgevoerd"> Schijfopruiming uitgevoerd</label>
         <label><input type="checkbox" name="FBCSOpstartMap"> FBCS Opstart Map ingesteld</label>
         <label><input type="checkbox" name="ChromeFirefoxEdge"> Chrome, Firefox, Edge geinstalleerd</label>
-        <label><input type="checkbox" name="CoolerCleaning"> Koeler schoongemaakt</label>
+        <label><input type="checkbox" name="CoolerCleaning"> </label>
+        <select name="remindertype" id="remindertypeselector">
+              <option value="alles">Floris Bijl</option>
+              <option value="hosting">Lars Baas</option>
+              <option value="mail">Nick Schoemaker</option>
+              <option value="domainname">Marit Schoemaker</option
+              <option value="ssl">Robin Smit</option>
+              <option value="cloudcare">Hidde Spaander</option>
+              <option value="cloudbackup">Jesse Leerdam</option>
+              <option value="onderhoud">Dylaan Omer</option>
+              <option value="verhuur">Oleksandr Stratiichuk</option>
+              <option value="voip">Robin Janneman</option>
+              <option value="internet">Bernd Broers</option>
+              <option value="nieuwemedewerker">Dejaay Buis</option>
+              <option value="nieuwemedewerker">Daan Koster</option>
+              <option value="nieuwemedewerker">Jort Schuitemaker</option>
+            </select>
 `
-
-
-
-
   //add options
   if (inputs.type === "hosting") {
     form += `<label for="optional"> <br></br> Totaal aantal uitbreidingen (per GB) </label>\
