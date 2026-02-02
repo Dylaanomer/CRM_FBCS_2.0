@@ -25,7 +25,6 @@
               <option value="hosting">Onderhoudjes Overzicht</option>
               <option value="mail">Nieuwe PC klaarmaken Overzicht</option>
               <option value="domainname">Overige Werk</option>
-              
             </select>
           </div>
           <div id="history" class="state">Geschiedenis</div>

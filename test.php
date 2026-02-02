@@ -115,7 +115,154 @@ try {
     );
 }
 
-// Test 5: Check Required Backend Files
+// Test 5: Check PHPMailer and Email Functionality
+$test_name = "PHPMailer and Email Configuration";
+$mail_info = array();
+try {
+    // Check if PHPMailer is installed via Composer
+    $composer_autoload = 'vendor/autoload.php';
+    $phpmailer_installed = false;
+    $mail_config_found = false;
+    $mail_usage_found = false;
+
+    if (file_exists($composer_autoload)) {
+        require_once $composer_autoload;
+        if (class_exists('PHPMailer\PHPMailer\PHPMailer')) {
+            $phpmailer_installed = true;
+            $mail_info[] = 'PHPMailer installed via Composer';
+        }
+    }
+
+    // Check for manual PHPMailer installation
+    $phpmailer_manual_paths = array(
+        'PHPMailer/PHPMailer.php',
+        'phpmailer/PHPMailer.php',
+        'includes/PHPMailer.php',
+        'lib/PHPMailer.php'
+    );
+
+    foreach ($phpmailer_manual_paths as $path) {
+        if (file_exists($path)) {
+            $phpmailer_installed = true;
+            $mail_info[] = 'PHPMailer found at: ' . $path;
+            break;
+        }
+    }
+
+    // Check for email configuration files
+    $config_files = array(
+        'config/mail.php',
+        'includes/mail-config.php',
+        'ajax/mail-config.php',
+        'mail-config.php'
+    );
+
+    foreach ($config_files as $config_file) {
+        if (file_exists($config_file)) {
+            $mail_config_found = true;
+            $mail_info[] = 'Mail config found: ' . $config_file;
+        }
+    }
+
+    // Search for mail usage in PHP files
+    $search_directories = array('ajax', 'includes', '.');
+    $mail_patterns = array(
+        '/new PHPMailer/',
+        '/mail\(/',
+        '/->send\(/',
+        '/->addAddress\(/',
+        '/->setFrom\(/'
+    );
+
+    foreach ($search_directories as $dir) {
+        if (is_dir($dir)) {
+            $files = glob($dir . '/*.php');
+            foreach ($files as $file) {
+                $content = file_get_contents($file);
+                foreach ($mail_patterns as $pattern) {
+                    if (preg_match($pattern, $content)) {
+                        $mail_usage_found = true;
+                        $mail_info[] = 'Mail usage found in: ' . $file;
+                        break 2;
+                    }
+                }
+            }
+        }
+    }
+
+    // Check if PHP mail function is enabled
+    $mail_function_available = function_exists('mail');
+    if ($mail_function_available) {
+        $mail_info[] = 'PHP mail() function is available';
+    }
+
+    // Determine test result
+    if ($phpmailer_installed || $mail_usage_found) {
+        $tests[$test_name] = array(
+            'status' => 'PASS',
+            'message' => 'Email functionality detected',
+            'details' => implode(' | ', $mail_info),
+            'data' => array(
+                array(
+                    'Component' => 'PHPMailer Installed',
+                    'Status' => $phpmailer_installed ? 'Yes' : 'No'
+                ),
+                array(
+                    'Component' => 'Mail Config Found',
+                    'Status' => $mail_config_found ? 'Yes' : 'No'
+                ),
+                array(
+                    'Component' => 'Mail Usage in Code',
+                    'Status' => $mail_usage_found ? 'Yes' : 'No'
+                ),
+                array(
+                    'Component' => 'PHP mail() Available',
+                    'Status' => $mail_function_available ? 'Yes' : 'No'
+                )
+            )
+        );
+    } else if ($mail_function_available) {
+        $tests[$test_name] = array(
+            'status' => 'PASS',
+            'message' => 'PHP mail() function available (no PHPMailer detected)',
+            'details' => 'Native PHP mail can be used',
+            'data' => array(
+                array(
+                    'Component' => 'PHPMailer Installed',
+                    'Status' => 'No'
+                ),
+                array(
+                    'Component' => 'PHP mail() Available',
+                    'Status' => 'Yes'
+                )
+            )
+        );
+    } else {
+        $tests[$test_name] = array(
+            'status' => 'FAIL',
+            'message' => 'No email functionality detected',
+            'details' => 'Neither PHPMailer nor PHP mail() function found',
+            'data' => array(
+                array(
+                    'Component' => 'PHPMailer Installed',
+                    'Status' => 'No'
+                ),
+                array(
+                    'Component' => 'PHP mail() Available',
+                    'Status' => 'No'
+                )
+            )
+        );
+    }
+} catch (Exception $e) {
+    $tests[$test_name] = array(
+        'status' => 'ERROR',
+        'message' => $e->getMessage(),
+        'details' => 'Exception during email check'
+    );
+}
+
+// Test 6: Check Required Backend Files
 $backend_files = array(
     'ajax/login/login.php' => 'Login Handler',
     'ajax/login/logout.php' => 'Logout Handler',
@@ -188,7 +335,7 @@ foreach ($backend_files as $file => $description) {
 
         .test-summary {
             display: flex;
-            justify-content: space-around;
+            justify-space-around;
             padding: 20px;
             background: #f8f9fa;
             border-bottom: 2px solid #e0e0e0;
@@ -345,60 +492,6 @@ foreach ($backend_files as $file => $description) {
             </div>
             <div class="summary-item">
                 <div>Passed</div>
-
-                    <?php if (!empty($test['data']) && is_array($test['data'])): ?>
-                        <table class="data-table">
-                            <thead>
-                                <tr>
-                                    <?php
-                                    if (!empty($test['data'])) {
-                                        foreach (array_keys($test['data'][0]) as $column) {
-                                            echo '<th>' . htmlspecialchars($column) . '</th>';
-                                        }
-                                    }
-                                    ?>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <?php foreach ($test['data'] as $row): ?>
-                                    <tr>
-                                        <?php
-                                        foreach ($row as $value) {
-                                            echo '<td>' . htmlspecialchars($value) . '</td>';
-                                        }
-                                        ?>
-                                    </tr>
-                                <?php endforeach; ?>
-                            </tbody>
-                        </table>
-                    <?php endif; ?>
-
-                    <?php if (!empty($test['data']) && is_array($test['data'])): ?>
-                        <table class="data-table">
-                            <thead>
-                                <tr>
-                                    <?php
-                                    if (!empty($test['data'])) {
-                                        foreach (array_keys($test['data'][0]) as $column) {
-                                            echo '<th>' . htmlspecialchars($column) . '</th>';
-                                        }
-                                    }
-                                    ?>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <?php foreach ($test['data'] as $row): ?>
-                                    <tr>
-                                        <?php
-                                        foreach ($row as $value) {
-                                            echo '<td>' . htmlspecialchars($value) . '</td>';
-                                        }
-                                        ?>
-                                    </tr>
-                                <?php endforeach; ?>
-                            </tbody>
-                        </table>
-                    <?php endif; ?>
                 <div class="summary-count summary-pass">
                     <?php echo count(array_filter($tests, fn($t) => $t['status'] === 'PASS')); ?>
                 </div>
@@ -435,6 +528,33 @@ foreach ($backend_files as $file => $description) {
                     <?php if (!empty($test['details'])): ?>
                         <div class="test-details"><?php echo htmlspecialchars($test['details']); ?></div>
                     <?php endif; ?>
+
+                    <?php if (!empty($test['data']) && is_array($test['data'])): ?>
+                        <table class="data-table">
+                            <thead>
+                                <tr>
+                                    <?php
+                                    if (!empty($test['data'])) {
+                                        foreach (array_keys($test['data'][0]) as $column) {
+                                            echo '<th>' . htmlspecialchars($column) . '</th>';
+                                        }
+                                    }
+                                    ?>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <?php foreach ($test['data'] as $row): ?>
+                                    <tr>
+                                        <?php
+                                        foreach ($row as $value) {
+                                            echo '<td>' . htmlspecialchars($value) . '</td>';
+                                        }
+                                        ?>
+                                    </tr>
+                                <?php endforeach; ?>
+                            </tbody>
+                        </table>
+                    <?php endif; ?>
                 </div>
             <?php endforeach; ?>
         </div>
@@ -445,38 +565,3 @@ foreach ($backend_files as $file => $description) {
     </div>
   </body>
 </html>
-              <option value="verhuur">Verhuur Apparatuur</option>
-              <option value="voip">VOIP</option>
-              <option value="internet">Internet</option>
-            </select>
-          </div>
-          <div id="history" class="state"> History </div>
-          <div id="customers" class="state"> Klanten </div>
-        </header>
-        <div id="dashboard-content">
-
-        </div>
-      </div>
-      <div id="create">
-        <header id="forms">
-          <div id="hosting"> Web-Hosting en SSL </div>
-          <div id="mail"> Microsoft 365 </div>
-          <div id="domainname"> Domeinnaam </div>
-          <div id="ssl"> SSL certificaat </div>
-          <div id="cloudcare"> Cloudcare </div>
-          <div id="cloudbackup"> Cloud Backup </div>
-          <div id="onderhoud"> Onderhouds Abonnement </div>
-          <div id="verhuur"> Verhuur Apparatuur </div>
-          <div id="voip"> VOIP </div>
-          <div id="internet"> Internet </div>
-        </header>
-        <div id="form">
-
-        </div>
-      </div>
-    </div>
-  </body>
-</html>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script src="js/form.js"></script>
-<script src="js/dashboard.js"></script>

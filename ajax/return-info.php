@@ -85,13 +85,13 @@ if ($content_type === "klantdata") {
             break;
         }
     }
-    
+
     if ($result_found) {
         echo json_encode($data);
     } else {
         echo json_encode(array('error' => "no results"));
     }
-    
+
 } else if ($content_type === "reminder") {
     // Search for matching reminder (using klantdata)
     foreach ($sample_klantdata as $row) {
@@ -106,13 +106,13 @@ if ($content_type === "klantdata") {
             break;
         }
     }
-    
+
     if ($result_found) {
         echo json_encode($data);
     } else {
         echo json_encode(array('error' => "no results"));
     }
-    
+
 } else if ($content_type === "onderhoud") {
     // Search for matching user
     foreach ($sample_users as $row) {
