@@ -99,8 +99,8 @@ function renderForm() {
         <a href="https://licenties.fbcs.nl" target="_blank" style="color: black; font-weight: bold; text-decoration: none;"> Link Website voor Avast code activatie</a>
         </small>
         <br>
-         <label><input type="checkbox" name="energiebeheer"> Energiebeheer ingesteld</label>
-         <label><input type="checkbox" name="avastinstellingen"> Avast instellingen gedaan</label>
+        <label><input type="checkbox" name="energiebeheer"> Energiebeheer ingesteld</label>
+        <label><input type="checkbox" name="avastinstellingen"> Avast instellingen gedaan</label>
         <label><input type="checkbox" name="Schijfopslag"> Schijfopslag geoptimaliseerd</label>
         <label><input type="checkbox" name="partitiesnaamSDDHDD"> Partities hernoemd (SSD/HDD)</label>
         <label><input type="checkbox" name="openshell"> Open-Shell geinstalleerd</label>

@@ -24,7 +24,80 @@ $sample_data = [
         'Pctype' => 'Desktop',
         'Datum' => '2024-01-25',
         'Medewerker' => 'Jan Jansen'
+    ],
+    [
+        'Klant' => 'Bedrijf D',
+        'Pctype' => 'Desktop',
+        'Datum' => '2024-01-25',
+        'Medewerker' => 'Jan Jansen'
+    ],
+    [
+        'Klant' => 'Bedrijf D',
+        'Pctype' => 'Desktop',
+        'Datum' => '2024-01-25',
+        'Medewerker' => 'Jan Jansen'
+    ],
+    [
+        'Klant' => 'Bedrijf D',
+        'Pctype' => 'Desktop',
+        'Datum' => '2024-01-25',
+        'Medewerker' => 'Jan Jansen'
+    ],
+    [
+        'Klant' => 'Bedrijf D',
+        'Pctype' => 'Desktop',
+        'Datum' => '2024-01-25',
+        'Medewerker' => 'Jan Jansen'
+    ],
+    [
+        'Klant' => 'Bedrijf D',
+        'Pctype' => 'Desktop',
+        'Datum' => '2024-01-25',
+        'Medewerker' => 'Jan Jansen'
+    ],
+    [
+        'Klant' => 'Bedrijf D',
+        'Pctype' => 'Desktop',
+        'Datum' => '2024-01-25',
+        'Medewerker' => 'Jan Jansen'
+    ],
+    [
+        'Klant' => 'Bedrijf D',
+        'Pctype' => 'Desktop',
+        'Datum' => '2024-01-25',
+        'Medewerker' => 'Jan Jansen'
+    ],
+    [
+        'Klant' => 'Bedrijf D',
+        'Pctype' => 'Desktop',
+        'Datum' => '2024-01-25',
+        'Medewerker' => 'Jan Jansen'
+    ],
+    [
+        'Klant' => 'Bedrijf D',
+        'Pctype' => 'Desktop',
+        'Datum' => '2024-01-25',
+        'Medewerker' => 'Jan Jansen'
+    ],
+    [
+        'Klant' => 'Bedrijf D',
+        'Pctype' => 'Desktop',
+        'Datum' => '2024-01-25',
+        'Medewerker' => 'Jan Jansen'
+    ],
+    [
+        'Klant' => 'Bedrijf D',
+        'Pctype' => 'Desktop',
+        'Datum' => '2024-01-25',
+        'Medewerker' => 'Jan Jansen'
+    ],
+    [
+        'Klant' => 'Bedrijf D',
+        'Pctype' => 'Desktop',
+        'Datum' => '2024-01-25',
+        'Medewerker' => 'Jan Jansen'
     ]
+
 ];
 
 $content_type = isset($_POST['content_type']) ? $_POST['content_type'] : 'klantdata';
@@ -49,11 +122,11 @@ echo '<div> Klant </div>
 if (count($sample_data) > 0) {
   foreach ($sample_data as $row) {
     echo '<div class="list-container">';
-    
+
     if ($content_type !== "klantdata") {  // Changed from "klant-data" to "klantdata"
       echo '<div> '.$row["Klant"].' </div>';
     }
-    
+
     echo '<div> '.$row["Klant"].' </div>
           <div> '.$row["Datum"].' </div>
           <div> '.$row["Pctype"].' </div>

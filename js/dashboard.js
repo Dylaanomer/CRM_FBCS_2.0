@@ -64,7 +64,7 @@ $(document).on('input', '#customer_id', function() {
   jQuery.ajax({
     url: "ajax/return-info.php",
     data:'id='+encodeURIComponent(customer.customer_id)
-          +'&content_type=customers',
+          +'&content_type=klantdata',
     type: "POST",
   success:function(res){
     data = JSON.parse(res);

@@ -25,7 +25,7 @@
               <option value="hosting">Onderhoudjes Overzicht</option>
               <option value="mail">Nieuwe PC klaarmaken Overzicht</option>
               <option value="domainname">Overige Werk</option>
-              <option value="ssl">SSL Certificaat</option>
+              
             </select>
           </div>
           <div id="history" class="state">Geschiedenis</div>
@@ -38,8 +38,15 @@
       <div id="create">
         <header id="forms">
           <div id="hosting">Onderhoud Klanten</div>
-          <div id="hosting">Nieuwe PC klaarmaken</div>
-          <div id="hosting">Klant Verzoeken</div>
+          <div id="hosting">DEFUNCT</div>
+          <div id="hosting">DEFUNCT</div>
+          <div id="hosting">DEFUNCT</div>
+          <div id="hosting">DEFUNCT</div>
+          <div id="hosting">DEFUNCT</div>
+          <div id="hosting">DEFUNCT</div>
+          <div id="hosting">DEFUNCT</div>
+          <div id="hosting">DEFUNCT</div>
+          <div id="hosting">DEFUNCT</div>
         </header>
         <div id="form">
         </div>
