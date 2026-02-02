@@ -38,15 +38,6 @@
       <div id="create">
         <header id="forms">
           <div id="hosting">Onderhoud Klanten</div>
-          <div id="hosting">DEFUNCT</div>
-          <div id="hosting">DEFUNCT</div>
-          <div id="hosting">DEFUNCT</div>
-          <div id="hosting">DEFUNCT</div>
-          <div id="hosting">DEFUNCT</div>
-          <div id="hosting">DEFUNCT</div>
-          <div id="hosting">DEFUNCT</div>
-          <div id="hosting">DEFUNCT</div>
-          <div id="hosting">DEFUNCT</div>
         </header>
         <div id="form">
         </div>
