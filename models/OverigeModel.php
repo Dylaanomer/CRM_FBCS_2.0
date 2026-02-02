@@ -15,3 +15,10 @@ class OverigeModel extends BaseModel
         return $result->fetch_assoc();
     }
 }
+?><?php
+// Sample data for demonstration purposes
+$sample_overige = array(
+    array('overige_id' => 'O001', 'customer' => 'Acme Corp', 'note' => 'Important client'),
+    array('overige_id' => 'O002', 'customer' => 'Beta LLC', 'note' => 'Requires follow-up'),
+    array('overige_id' => 'O003', 'customer' => 'Gamma Inc', 'note' => 'New customer')
+);

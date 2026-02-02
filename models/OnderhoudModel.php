@@ -15,4 +15,10 @@ class OnderhoudModel extends BaseModel
         return $result->fetch_assoc();
     }
 }
-```
+?><?php
+// Sample data for demonstration purposes
+$sample_customers = array(
+    array('customer_id' => 'C001', 'customer' => 'Acme Corp', 'note' => 'Important client'),
+    array('customer_id' => 'C002', 'customer' => 'Beta LLC', 'note' => 'Requires follow-up'),
+    array('customer_id' => 'C003', 'customer' => 'Gamma Inc', 'note' => 'New customer')
+);
