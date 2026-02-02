@@ -482,7 +482,7 @@ foreach ($backend_files as $file => $description) {
     <div class="test-container">
         <div class="test-header">
             <h1>🔍 System Test Report</h1>
-            <p>FBCS Reminder PHP Application</p>
+            <p>FBCS CRM PHP Application</p>
         </div>
 
         <div class="test-summary">
