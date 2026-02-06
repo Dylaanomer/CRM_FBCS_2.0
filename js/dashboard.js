@@ -5,19 +5,21 @@ let get_values = get_query();
 let selectedType = 'alles';
 let lastSelectedType = 'alles';
 let HTMLcustomerInfo = '<div id=form>\
-                    <label for="customer_id"> Klantnummer </label>\
-                    <input id="customer_id" maxlength="20" list="customer_id_list" pattern="^[a-zA-Z0-9]+$" name="customer_id">\
-                    <datalist id="customer_id_list"></datalist>\
-                    <label for="customer"> Klant </label>\
-                    <input id="customer" class="customerform" type="text" name="customer">\
+                    <label for="klant"> Klantnummer </label>\
+                    <input id="klant" maxlength="20" list="klant_list" pattern="^[a-zA-Z0-9]+$" name="customer_id">\
+                    <datalist id="klant_list1"></datalist>\
+                    <label for="klant2"> Klant </label>\
+                    <input id="klant3" class="customerform" type="text" name="customer">\
                     <label for="note"> Notitie </label>\
                     <textarea id="note" class="customerform" type="text" name="note"/>\
                     </div>\
+                    <input type="checkbox" id="note" name="note" checked>\
+                    <label for="note">Notitie</label>\
                     <div id="customer-reminders"> </div>';
 
 
 
-                    
+
 
 
 $(document).ready(function() {
@@ -189,9 +191,8 @@ function renderInfo(id) {
 
 function renderCustomer() {
   $('#dashboard-content').html(HTMLcustomerInfo);
-  $("#customer_id").val(customer.customer_id);
   renderCustomerReminders();
-  fillCustomerInfo();
+  //fillCustomerInfo();//
   $("div[id="+state+"]").addClass("selected");
 }
 
