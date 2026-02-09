@@ -13,8 +13,36 @@ let HTMLcustomerInfo = '<div id=form>\
                     <label for="note"> Notitie </label>\
                     <textarea id="note" class="customerform" type="text" name="note"/>\
                     </div>\
-                    <input type="checkbox" id="note" name="note" checked>\
-                    <label for="note">Notitie</label>\
+                    <label for="note">Herstelpunt Aanmaken</label>\
+                    <input type="checkbox" id="herstelpunt" name="herstelpunt" checked>\
+                    <label for="note"> Windows 11 25H2</label>\
+                    <input type="checkbox" id="windows11" name="windows11" checked>\
+                    <label for="avast">Avast Geactiveerd</label>\
+                    <input type="checkbox" id="avast" name="avast" checked>\
+                    <label for="office">Office 365 Geactiveerd</label>\
+                    <input type="checkbox" id="office" name="office" checked>\
+                    <label for="antivirus">Energiebeheer ingesteld</label>\
+                    <input type="checkbox" id="energie" name="energie" checked>\
+                    <label for="backup">Avast Instellingen</label>\
+                    <input type="checkbox" id="avast_settings" name="avast_settings" checked>\
+                    <label for="cloud">Schijfopslag geoptimaliseerd</label>\
+                    <input type="checkbox" id="schijf" name="schijf" checked>\
+                    <label for="remote">Partities Hernoemd (SSD/HDD)</label>\
+                    <input type="checkbox" id="partities" name="partities" checked>\
+                    <label for="email">Open-Shell</label>\
+                    <input type="checkbox" id="open-shell" name="open-shell" checked>\
+                    <label for="antivirus">FBCS Supremo</label>\
+                    <input type="checkbox" id="supremo" name="supremo" checked>\
+                    <label for="backup">Delivery Optimization</label>\
+                    <input type="checkbox" id="delivery_optimization" name="delivery_optimization" checked>\
+                    <label for="cloud">Ongewenste Programmas verwijderd</label>\
+                    <input type="checkbox" id="uninstall" name="uninstall" checked>\
+                    <label for="remote">Windows Games</label>\
+                    <input type="checkbox" id="Games" name="games" checked>\
+                    <label for="remote">Gadgets</label>\
+                    <input type="checkbox" id="gadgets" name="gadgets" checked>\
+                    <label for="remote">Chrome/FireFox/Edge instellen</label>\
+                    <input type="text" id="browsers" name="browsers"/>\
                     <div id="customer-reminders"> </div>';
 
 
