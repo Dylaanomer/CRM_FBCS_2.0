@@ -18,6 +18,9 @@ let HTMLcustomerInfo = '<div id=form>\
                     <label for="note"> Windows 11 25H2</label>\
                     <input type="checkbox" id="windows11" name="windows11" checked>\
                     <label for="avast">Avast Geactiveerd</label>\
+                    <small>\
+                    <a href="https://licenties.fbcs.nl" target="_blank" style="color: black; font-weight: bold; text-decoration: none;"> Link Website voor Avast code activatie</a>\
+                    </small>\
                     <input type="checkbox" id="avast" name="avast" checked>\
                     <label for="office">Office 365 Geactiveerd</label>\
                     <input type="checkbox" id="office" name="office" checked>\
